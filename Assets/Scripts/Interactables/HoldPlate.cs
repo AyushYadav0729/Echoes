@@ -48,6 +48,9 @@ public class HoldPlate : MonoBehaviour, IInteractable
         {
             var laser = linkedObject.GetComponent<StaticLaser>();
             laser?.SetActive(false); // holding a plate disables its linked static laser
+            
+            var door = linkedObject.GetComponent<Door>();
+            door?.Open();
         }
     }
 
@@ -60,6 +63,9 @@ public class HoldPlate : MonoBehaviour, IInteractable
         {
             var laser = linkedObject.GetComponent<StaticLaser>();
             laser?.SetActive(true);
+
+            var door = linkedObject.GetComponent<Door>();
+            door?.Close();
         }
     }
 }
