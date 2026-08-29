@@ -26,6 +26,10 @@ public class EchoPlayer : MonoBehaviour
             trail.Clear();
     }
 
+    public void Despawn()
+    {
+        Destroy(gameObject);
+    }
     void FixedUpdate()
     {
         if (frames == null || frames.Count == 0 || currentFrameIndex >= frames.Count)
