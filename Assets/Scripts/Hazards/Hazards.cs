@@ -1,6 +1,6 @@
 using UnityEngine;
 
-// PERSON 2 — fill in the logic inside each method.
+// Filled in. Class/method names and signatures unchanged from the template.
 
 // ---------- Spikes ----------
 // Static hazard. No movement, just instant death on touch.
@@ -8,14 +8,21 @@ public class Spike : MonoBehaviour
 {
     void OnTriggerEnter2D(Collider2D other)
     {
-        // TODO: check other.CompareTag("Player") -> call PlayerController.Die()
-        // TODO: check other.CompareTag("Echo") -> despawn that echo (it "dies" here on replay)
+        if (other.CompareTag("Player"))
+        {
+            other.GetComponent<PlayerController>()?.Die();
+        }
+        else if (other.CompareTag("Echo"))
+        {
+            other.GetComponent<EchoPlayer>()?.Despawn();
+        }
     }
 }
 
 
 // ---------- Projectile Laser ----------
 // Fires along a fixed path, destroyed on first contact with anything solid.
+[RequireComponent(typeof(Collider2D))]
 public class ProjectileLaser : MonoBehaviour
 {
     public float speed = 4f;
@@ -23,15 +30,26 @@ public class ProjectileLaser : MonoBehaviour
 
     void FixedUpdate()
     {
-        // TODO: move along `direction` at `speed` — must be fully deterministic,
-        // no randomness, since echoes rely on hazards behaving identically every run
+        // Fully deterministic — same speed/direction every run, no
+        // randomness, since echoes rely on hazards behaving identically.
+        transform.position += (Vector3)(direction.normalized * speed * Time.fixedDeltaTime);
     }
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        // TODO: if other is Player -> Die(); if Echo -> despawn it
-        // TODO: either way, destroy this projectile (Destroy(gameObject)) —
-        // it's consumed on first contact, protecting anything behind it
+        if (other.CompareTag("Player"))
+        {
+            other.GetComponent<PlayerController>()?.Die();
+        }
+        else if (other.CompareTag("Echo"))
+        {
+            other.GetComponent<EchoPlayer>()?.Despawn();
+        }
+
+        // Consumed on first contact with anything solid (Player, Echo,
+        // ground, walls) — this is what lets a body standing in the path
+        // protect whatever is behind it.
+        Destroy(gameObject);
     }
 }
 
@@ -40,19 +58,39 @@ public class ProjectileLaser : MonoBehaviour
 // Continuous beam. Cannot be blocked by standing in it — only disabled via a linked plate.
 public class StaticLaser : MonoBehaviour
 {
+    [Header("Visual")]
+    public SpriteRenderer beamRenderer;
+    public Color activeColor = new Color(1f, 0.3f, 0.3f, 1f);
+    public Color inactiveColor = new Color(0.4f, 0.4f, 0.4f, 0.25f);
+
     private bool isActive = true;
+
+    void Awake()
+    {
+        if (beamRenderer == null) beamRenderer = GetComponent<SpriteRenderer>();
+    }
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (!isActive) return;
-        // TODO: if other is Player -> Die(); if Echo -> despawn it
-        // Note: unlike ProjectileLaser, do NOT destroy this object — it stays and keeps firing
+
+        if (other.CompareTag("Player"))
+        {
+            other.GetComponent<PlayerController>()?.Die();
+        }
+        else if (other.CompareTag("Echo"))
+        {
+            other.GetComponent<EchoPlayer>()?.Despawn();
+        }
+        // Note: unlike ProjectileLaser, this object is never destroyed —
+        // it stays and keeps firing until disabled by its linked plate.
     }
 
-    // Called by the linked HoldPlate via OnPressed/OnReleased
+    // Called by the linked HoldPlate via OnPressed/OnReleased.
     public void SetActive(bool active)
     {
         isActive = active;
-        // TODO: visual change — fade to near-invisible/gray when inactive
+        if (beamRenderer != null)
+            beamRenderer.color = active ? activeColor : inactiveColor;
     }
 }
