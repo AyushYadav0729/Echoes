@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1281136445444683496
+--- !u!1 &8381727193664798163
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,39 +8,43 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3534632657625257828}
-  - component: {fileID: 9091777767972757642}
-  - component: {fileID: 1162953185397826306}
+  - component: {fileID: 1241280126601352047}
+  - component: {fileID: 3457132444369351213}
+  - component: {fileID: 7365347903716497255}
+  - component: {fileID: 6208747370410933156}
+  - component: {fileID: 6366906519224378493}
+  - component: {fileID: 7888815002646926242}
+  - component: {fileID: 9139290864539172135}
   m_Layer: 3
-  m_Name: SpriteVisual
-  m_TagString: Untagged
+  m_Name: Player
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3534632657625257828
+--- !u!4 &1241280126601352047
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1281136445444683496}
+  m_GameObject: {fileID: 8381727193664798163}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.25, z: 0}
+  m_LocalPosition: {x: -0.12865, y: -0.34059, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 9027244884389107198}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &9091777767972757642
+--- !u!212 &3457132444369351213
 SpriteRenderer:
   serializedVersion: 2
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1281136445444683496}
+  m_GameObject: {fileID: 8381727193664798163}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -92,69 +96,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &1162953185397826306
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1281136445444683496}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d45bd10fa9f144a4da125be94245d7bb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::CharacterAnimator
-  bodyTransform: {fileID: 3534632657625257828}
-  leanPivot: {fileID: 9027244884389107198}
-  leftEyebrow: {fileID: 0}
-  rightEyebrow: {fileID: 0}
-  leftEye: {fileID: 0}
-  rightEye: {fileID: 0}
-  stretchAmount: 0.25
-  squashSpeed: 15
-  leanAmount: 18
-  leanSpeed: 10
-  leanDamping: 6
-  maxEyebrowTilt: 20
-  blinkIntervalMin: 2
-  blinkIntervalMax: 5
-  blinkDuration: 0.12
---- !u!1 &8381727193664798163
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1241280126601352047}
-  - component: {fileID: 7365347903716497255}
-  - component: {fileID: 6208747370410933156}
-  - component: {fileID: 6366906519224378493}
-  - component: {fileID: 7888815002646926242}
-  m_Layer: 3
-  m_Name: Player
-  m_TagString: Player
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1241280126601352047
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8381727193664798163}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.12865, y: -0.34059, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 9027244884389107198}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &7365347903716497255
 Rigidbody2D:
   serializedVersion: 5
@@ -226,7 +167,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 0.5}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &6366906519224378493
 MonoBehaviour:
@@ -248,7 +189,7 @@ MonoBehaviour:
     m_Bits: 0
   groundCheckRadius: 0.1
   levelStartPoint: {fileID: 0}
-  characterAnimator: {fileID: 1162953185397826306}
+  characterAnimator: {fileID: 9139290864539172135}
   echoManager: {fileID: 0}
 --- !u!114 &7888815002646926242
 MonoBehaviour:
@@ -263,35 +204,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EchoRecorder
   sampleInterval: 0.02
---- !u!1 &9024921907245108132
-GameObject:
+--- !u!114 &9139290864539172135
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 9027244884389107198}
-  m_Layer: 3
-  m_Name: LeanPivot
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &9027244884389107198
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9024921907245108132}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.25, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 3534632657625257828}
-  m_Father: {fileID: 1241280126601352047}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_GameObject: {fileID: 8381727193664798163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45bd10fa9f144a4da125be94245d7bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterAnimator
+  bodyTransform: {fileID: 1241280126601352047}
+  leftEyebrow: {fileID: 0}
+  rightEyebrow: {fileID: 0}
+  leftEye: {fileID: 0}
+  rightEye: {fileID: 0}
+  stretchAmount: 0.25
+  squashSpeed: 8
+  maxEyebrowTilt: 20
+  blinkIntervalMin: 2
+  blinkIntervalMax: 5
+  blinkDuration: 0.12
