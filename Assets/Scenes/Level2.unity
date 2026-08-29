@@ -267,6 +267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 171106398}
   - component: {fileID: 171106397}
+  - component: {fileID: 171106399}
   m_Layer: 0
   m_Name: LevelManager
   m_TagString: Untagged
@@ -301,6 +302,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &171106399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171106396}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 112c88cb80d1b4e4ea058da9190de2e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DeathEffectSpawner
+  deathBurstPrefab: {fileID: 7855541060625224029, guid: 0c9b0dba91ac9254bb7e0bf936e98510, type: 3}
 --- !u!1 &631279221
 GameObject:
   m_ObjectHideFlags: 0
@@ -4224,7 +4238,7 @@ MonoBehaviour:
   echoPrefab: {fileID: 8381727193664798163, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
   levelStartPoint: {fileID: 1225018311}
   maxEchoes: 3
-  bodyAlpha: 0.45
+  bodyAlpha: 0.313
   faceAlpha: 0.85
 --- !u!4 &1526958530
 Transform:
@@ -4388,7 +4402,7 @@ Transform:
   m_GameObject: {fileID: 1527574851}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.07, y: -2.939, z: 0}
+  m_LocalPosition: {x: -2.09, y: -2.939, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4509,8 +4523,8 @@ Transform:
   m_GameObject: {fileID: 1565365857}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.03, y: -2.98, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalPosition: {x: 1.35, y: -2.98, z: 0}
+  m_LocalScale: {x: 1.7, y: 1.7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -5749,6 +5763,10 @@ PrefabInstance:
       propertyPath: levelStartPoint
       value: 
       objectReference: {fileID: 1225018311}
+    - target: {fileID: 6366906519224378493, guid: a3f8b0c81f58b2a49be9039fe747e45c, type: 3}
+      propertyPath: deathEffectSpawner
+      value: 
+      objectReference: {fileID: 171106399}
     - target: {fileID: 6366906519224378493, guid: a3f8b0c81f58b2a49be9039fe747e45c, type: 3}
       propertyPath: groundLayer.m_Bits
       value: 512

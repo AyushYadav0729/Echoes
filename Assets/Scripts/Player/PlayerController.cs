@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
 
     [Header("References — assign in Inspector")]
     public Transform levelStartPoint;
+    public DeathEffectSpawner deathEffectSpawner;
     public CharacterAnimator characterAnimator; // lives on a "Visual" child, shared with EchoPlayer
     public EchoManager echoManager;             // owns the 3-echo cap/rotation
 
@@ -106,6 +107,8 @@ public class PlayerController : MonoBehaviour
 
     public void Die()
     {
+
+        deathEffectSpawner?.SpawnDeathEffect(transform.position);
         EndAttempt(AttemptEndReason.Died);
     }
 
