@@ -2,16 +2,27 @@ using System.Collections.Generic;
 using UnityEngine;
 
 // PERSON 1 — filled in. Class/method names and signatures unchanged.
+// UPDATED: uses rb.MovePosition instead of setting transform.position
+// directly, so the Kinematic Rigidbody2D's Interpolate setting can smooth
+// movement between FixedUpdate ticks — otherwise echoes visually snap
+// between recorded points and look choppy compared to the live player.
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class EchoPlayer : MonoBehaviour
 {
     [Header("References — assign in Inspector")]
     public CharacterAnimator characterAnimator; // same shared component the player uses
     public TrailRenderer trail;                  // onion-skin trail — echoes only
 
+    private Rigidbody2D rb;
     private List<EchoFrame> frames;
     private int currentFrameIndex;
     private float playbackTimer;
+
+    void Awake()
+    {
+        rb = GetComponent<Rigidbody2D>();
+    }
 
     public void Init(List<EchoFrame> recording)
     {
@@ -20,7 +31,7 @@ public class EchoPlayer : MonoBehaviour
         playbackTimer = 0f;
 
         if (frames != null && frames.Count > 0)
-            transform.position = frames[0].position;
+            rb.position = frames[0].position; // snap immediately on spawn, no interpolation needed here
 
         if (trail != null)
             trail.Clear();
@@ -30,6 +41,7 @@ public class EchoPlayer : MonoBehaviour
     {
         Destroy(gameObject);
     }
+
     void FixedUpdate()
     {
         if (frames == null || frames.Count == 0 || currentFrameIndex >= frames.Count)
@@ -52,7 +64,7 @@ public class EchoPlayer : MonoBehaviour
         }
 
         EchoFrame frame = frames[currentFrameIndex];
-        transform.position = frame.position;
+        rb.MovePosition(frame.position); // was: transform.position = frame.position;
 
         if (characterAnimator != null)
         {
