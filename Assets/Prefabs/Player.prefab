@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6208747370410933156}
   - component: {fileID: 6366906519224378493}
   - component: {fileID: 7888815002646926242}
+  - component: {fileID: 9139290864539172135}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -182,6 +183,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 5
   jumpForce: 8
+  groundCheck: {fileID: 0}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 0
+  groundCheckRadius: 0.1
+  levelStartPoint: {fileID: 0}
+  characterAnimator: {fileID: 9139290864539172135}
+  echoManager: {fileID: 0}
 --- !u!114 &7888815002646926242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -194,3 +203,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f96709646a9c9f438c99bc4d6c31b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EchoRecorder
+  sampleInterval: 0.02
+--- !u!114 &9139290864539172135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8381727193664798163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d45bd10fa9f144a4da125be94245d7bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterAnimator
+  bodyTransform: {fileID: 1241280126601352047}
+  leftEyebrow: {fileID: 0}
+  rightEyebrow: {fileID: 0}
+  leftEye: {fileID: 0}
+  rightEye: {fileID: 0}
+  stretchAmount: 0.25
+  squashSpeed: 8
+  maxEyebrowTilt: 20
+  blinkIntervalMin: 2
+  blinkIntervalMax: 5
+  blinkDuration: 0.12

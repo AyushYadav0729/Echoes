@@ -18,7 +18,7 @@ public class CharacterAnimator : MonoBehaviour
 
     [Header("Squash & Stretch")]
     public float stretchAmount = 0.25f;
-    public float squashSpeed = 8f;
+    public float squashSpeed = 15f;
 
     [Header("Eyebrows")]
     public float maxEyebrowTilt = 20f; // degrees
