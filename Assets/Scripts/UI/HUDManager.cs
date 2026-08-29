@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro; // if using TextMeshPro — swap to regular Text if not
 
-// PERSON 3 — fill in the logic inside each method.
+// Filled in. Class/method names and signatures unchanged from the template.
 // Listens to GameEvents (from Core/) instead of needing direct references
 // to Player/Echo scripts — keeps UI decoupled from gameplay code.
 
@@ -30,18 +30,34 @@ public class HUDManager : MonoBehaviour
         GameEvents.OnLevelCleared -= HandleLevelCleared;
     }
 
+    void Start()
+    {
+        if (attemptCounterText != null)
+            attemptCounterText.text = $"Attempt {attemptNumber}";
+        if (echoCountText != null)
+            echoCountText.text = "Echoes: 0/3";
+        if (completionScreen != null)
+            completionScreen.SetActive(false);
+    }
+
     void HandleAttemptEnded(AttemptResult result)
     {
-        // TODO: increment attemptNumber, update attemptCounterText
+        attemptNumber = result.attemptNumber + 1; // the attempt that's about to start
+        if (attemptCounterText != null)
+            attemptCounterText.text = $"Attempt {attemptNumber}";
     }
 
     void HandleEchoCountChanged(int count)
     {
-        // TODO: update echoCountText (e.g. "Echoes: 2/3")
+        if (echoCountText != null)
+            echoCountText.text = $"Echoes: {count}/3";
     }
 
     void HandleLevelCleared()
     {
-        // TODO: show completionScreen, set completionAttemptsText to "Cleared in X attempts"
+        if (completionScreen != null)
+            completionScreen.SetActive(true);
+        if (completionAttemptsText != null)
+            completionAttemptsText.text = $"Cleared in {attemptNumber} attempts";
     }
 }
