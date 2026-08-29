@@ -1,31 +1,46 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// PERSON 1 — fill in the logic inside each method.
+// PERSON 1 — filled in. Class/method names and signatures unchanged.
 
 public class EchoPlayer : MonoBehaviour
 {
+    [Header("References — assign in Inspector")]
+    public CharacterAnimator characterAnimator; // same shared component the player uses
+    public TrailRenderer trail;                  // onion-skin trail — echoes only
+
     private List<EchoFrame> frames;
-    private int currentFrameIndex = 0;
+    private int currentFrameIndex;
 
     public void Init(List<EchoFrame> recording)
     {
         frames = recording;
         currentFrameIndex = 0;
-        // TODO: reset position to level start (frames[0].position, or a shared spawn point)
+
+        if (frames != null && frames.Count > 0)
+            transform.position = frames[0].position;
+
+        if (trail != null)
+            trail.Clear();
     }
 
     void FixedUpdate()
     {
         if (frames == null || currentFrameIndex >= frames.Count)
         {
-            // TODO: recording finished — despawn this echo (Destroy(gameObject) or disable it)
+            // Recording finished — echo simply stops existing, no special state.
+            Destroy(gameObject);
             return;
         }
 
-        // TODO: apply frames[currentFrameIndex] to transform.position and facing direction
-        // TODO: trigger the same squash/stretch + eyebrow animation logic the player uses
-        // (reuse the same animation code/component — don't duplicate it)
+        EchoFrame frame = frames[currentFrameIndex];
+        transform.position = frame.position;
+
+        if (characterAnimator != null)
+        {
+            float direction = frame.facingRight ? 1f : -1f;
+            characterAnimator.UpdateFromMovement(direction, true);
+        }
 
         currentFrameIndex++;
     }
