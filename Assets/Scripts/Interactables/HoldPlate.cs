@@ -4,25 +4,27 @@ using UnityEngine;
 // Implements IInteractable (from Core/) so it works identically whether
 // triggered by the live player or an echo.
 //
-// No color/sprite change — instead, the plate physically moves down when
-// pressed and back up when released, like a real mechanical button.
+// Sprite-swap only — nothing physically moves, so there's no risk of the
+// trigger collider shifting and causing enter/exit flicker.
 
 public class HoldPlate : MonoBehaviour, IInteractable
 {
     [Header("Linked Object")]
     public GameObject linkedObject; // e.g. a door, or a StaticLaser to disable
 
-    [Header("Press Movement")]
-    public float pressDepth = 0.08f; // how far down the plate moves when pressed
+    [Header("Visual — Sprites")]
+    public SpriteRenderer plateRenderer;
+    public Sprite pressedSprite;
+    public Sprite unpressedSprite;
 
-    private int pressingCount = 0; // how many things are currently on the plate
-    private Vector3 upPosition;
-    private Vector3 downPosition;
+    private int pressingCount = 0;
 
     void Awake()
     {
-        upPosition = transform.localPosition;
-        downPosition = upPosition - new Vector3(0f, pressDepth, 0f);
+        if (plateRenderer == null) plateRenderer = GetComponent<SpriteRenderer>();
+
+        if (plateRenderer != null && unpressedSprite != null)
+            plateRenderer.sprite = unpressedSprite;
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -45,12 +47,13 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
     public void OnPressed(GameObject presser)
     {
-        transform.localPosition = downPosition;
+        if (plateRenderer != null && pressedSprite != null)
+            plateRenderer.sprite = pressedSprite;
 
         if (linkedObject != null)
         {
             var laser = linkedObject.GetComponent<StaticLaser>();
-            laser?.SetActive(false); // holding a plate disables its linked static laser
+            laser?.SetActive(false);
 
             var door = linkedObject.GetComponent<Door>();
             door?.Open();
@@ -62,7 +65,8 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
     public void OnReleased(GameObject presser)
     {
-        transform.localPosition = upPosition;
+        if (plateRenderer != null && unpressedSprite != null)
+            plateRenderer.sprite = unpressedSprite;
 
         if (linkedObject != null)
         {

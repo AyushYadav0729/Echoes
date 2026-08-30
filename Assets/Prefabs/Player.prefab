@@ -397,7 +397,7 @@ Transform:
   m_GameObject: {fileID: 8381727193664798163}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.391, y: -0.355, z: 0}
+  m_LocalPosition: {x: -6.57, y: -0.34059, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -405,6 +405,7 @@ Transform:
   - {fileID: 1831276131953553011}
   - {fileID: 2341692150177770160}
   - {fileID: 2562954066161969112}
+  - {fileID: 7841230526715026251}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3457132444369351213
@@ -553,15 +554,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
   moveSpeed: 5
   jumpForce: 8
-  groundCheck: {fileID: 0}
+  groundCheck: {fileID: 7841230526715026251}
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   groundCheckRadius: 0.1
-  levelStartPoint: {fileID: 9141400773979955458, guid: 4ba240fee4b2a774a976769c560628bc, type: 3}
-  deathEffectSpawner: {fileID: 5645842588085769861, guid: 26dd9c8e558773b40b352cfe3c758df3, type: 3}
+  levelStartPoint: {fileID: 0}
+  deathEffectSpawner: {fileID: 0}
   characterAnimator: {fileID: 9139290864539172135}
-  echoManager: {fileID: 5079716492842396135, guid: 663f2aa7dd436114e8d9c65a79ffe052, type: 3}
+  echoManager: {fileID: 0}
+  respawnProtectionTime: 0.15
 --- !u!114 &7888815002646926242
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -731,3 +733,34 @@ MonoBehaviour:
   startWidth: 0.4
   endWidth: 0.4
   curveResolution: 10
+--- !u!1 &9113830979069519419
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7841230526715026251}
+  m_Layer: 3
+  m_Name: GroundCheck
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7841230526715026251
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9113830979069519419}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1241280126601352047}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
