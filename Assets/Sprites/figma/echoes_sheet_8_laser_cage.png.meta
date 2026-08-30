@@ -1,0 +1,3433 @@
+fileFormatVersion: 2
+guid: 4fea58b43cd29d240a45c0c591e3f777
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2766588659070454256
+    second: echoes_sheet_8_laser_cage_0
+  - first:
+      213: 5321494941503596403
+    second: echoes_sheet_8_laser_cage_1
+  - first:
+      213: -670145874689609489
+    second: echoes_sheet_8_laser_cage_2
+  - first:
+      213: -5434920052617073383
+    second: echoes_sheet_8_laser_cage_3
+  - first:
+      213: -8168895358731543974
+    second: echoes_sheet_8_laser_cage_4
+  - first:
+      213: 4644688157458335480
+    second: echoes_sheet_8_laser_cage_5
+  - first:
+      213: -3897355065914048565
+    second: echoes_sheet_8_laser_cage_6
+  - first:
+      213: -5331865745380615395
+    second: echoes_sheet_8_laser_cage_7
+  - first:
+      213: 2720039968395038029
+    second: echoes_sheet_8_laser_cage_8
+  - first:
+      213: -8121128296730464441
+    second: echoes_sheet_8_laser_cage_9
+  - first:
+      213: -4622087483881856252
+    second: echoes_sheet_8_laser_cage_10
+  - first:
+      213: -110886952918618439
+    second: echoes_sheet_8_laser_cage_11
+  - first:
+      213: -1779531458742778262
+    second: echoes_sheet_8_laser_cage_12
+  - first:
+      213: -4617729785807575614
+    second: echoes_sheet_8_laser_cage_13
+  - first:
+      213: -1600370024263230318
+    second: echoes_sheet_8_laser_cage_14
+  - first:
+      213: -3191334415286907876
+    second: echoes_sheet_8_laser_cage_15
+  - first:
+      213: -8050171580326051803
+    second: echoes_sheet_8_laser_cage_16
+  - first:
+      213: -3521459943327105801
+    second: echoes_sheet_8_laser_cage_17
+  - first:
+      213: 2873156469170488997
+    second: echoes_sheet_8_laser_cage_18
+  - first:
+      213: 4189107092801964778
+    second: echoes_sheet_8_laser_cage_19
+  - first:
+      213: 8006893363103279049
+    second: echoes_sheet_8_laser_cage_20
+  - first:
+      213: -9043162143107400364
+    second: echoes_sheet_8_laser_cage_21
+  - first:
+      213: -2915130015587229609
+    second: echoes_sheet_8_laser_cage_22
+  - first:
+      213: 365431929200014815
+    second: echoes_sheet_8_laser_cage_23
+  - first:
+      213: -5777520795602800726
+    second: echoes_sheet_8_laser_cage_24
+  - first:
+      213: 7191067964179262680
+    second: echoes_sheet_8_laser_cage_25
+  - first:
+      213: 68152736603233338
+    second: echoes_sheet_8_laser_cage_26
+  - first:
+      213: 4701962851306934604
+    second: echoes_sheet_8_laser_cage_27
+  - first:
+      213: -2028874908312010637
+    second: echoes_sheet_8_laser_cage_28
+  - first:
+      213: 6912573101566767944
+    second: echoes_sheet_8_laser_cage_29
+  - first:
+      213: 4144693403720949919
+    second: echoes_sheet_8_laser_cage_30
+  - first:
+      213: -5724262784033419767
+    second: echoes_sheet_8_laser_cage_31
+  - first:
+      213: 4675351728315542082
+    second: echoes_sheet_8_laser_cage_32
+  - first:
+      213: 4858347148647151365
+    second: echoes_sheet_8_laser_cage_33
+  - first:
+      213: 4487849782509863430
+    second: echoes_sheet_8_laser_cage_34
+  - first:
+      213: 5297959821013779680
+    second: echoes_sheet_8_laser_cage_35
+  - first:
+      213: -3984183158039655699
+    second: echoes_sheet_8_laser_cage_36
+  - first:
+      213: 7926614000858263189
+    second: echoes_sheet_8_laser_cage_37
+  - first:
+      213: 3405719479112961797
+    second: echoes_sheet_8_laser_cage_38
+  - first:
+      213: -8003906548584660368
+    second: echoes_sheet_8_laser_cage_39
+  - first:
+      213: 4337974202188781922
+    second: echoes_sheet_8_laser_cage_40
+  - first:
+      213: 6863393336498867436
+    second: echoes_sheet_8_laser_cage_41
+  - first:
+      213: 6944044573939081795
+    second: echoes_sheet_8_laser_cage_42
+  - first:
+      213: -5693154954636149573
+    second: echoes_sheet_8_laser_cage_43
+  - first:
+      213: -4988756199556847607
+    second: echoes_sheet_8_laser_cage_44
+  - first:
+      213: -1376970370459532619
+    second: echoes_sheet_8_laser_cage_45
+  - first:
+      213: 8579942527663271916
+    second: echoes_sheet_8_laser_cage_46
+  - first:
+      213: 2056258838563207041
+    second: echoes_sheet_8_laser_cage_47
+  - first:
+      213: 1081789277623984148
+    second: echoes_sheet_8_laser_cage_48
+  - first:
+      213: 3955532007229943868
+    second: echoes_sheet_8_laser_cage_49
+  - first:
+      213: 7092291448911091686
+    second: echoes_sheet_8_laser_cage_50
+  - first:
+      213: -4943206293766372793
+    second: echoes_sheet_8_laser_cage_51
+  - first:
+      213: 392626546834264977
+    second: echoes_sheet_8_laser_cage_52
+  - first:
+      213: -2314818791451825006
+    second: echoes_sheet_8_laser_cage_53
+  - first:
+      213: -7150372557107809585
+    second: echoes_sheet_8_laser_cage_54
+  - first:
+      213: 4525500985419065654
+    second: echoes_sheet_8_laser_cage_55
+  - first:
+      213: 5845128490112350427
+    second: echoes_sheet_8_laser_cage_56
+  - first:
+      213: -2945185956700162463
+    second: echoes_sheet_8_laser_cage_57
+  - first:
+      213: 5701755015999972446
+    second: echoes_sheet_8_laser_cage_58
+  - first:
+      213: 409493402834667853
+    second: echoes_sheet_8_laser_cage_59
+  - first:
+      213: -7924297831527839704
+    second: echoes_sheet_8_laser_cage_60
+  - first:
+      213: -5357681181083667451
+    second: echoes_sheet_8_laser_cage_61
+  - first:
+      213: 7365966934032720049
+    second: echoes_sheet_8_laser_cage_62
+  - first:
+      213: -8152658830381747611
+    second: echoes_sheet_8_laser_cage_63
+  - first:
+      213: -6768459643216065765
+    second: echoes_sheet_8_laser_cage_64
+  - first:
+      213: 37983036618623325
+    second: echoes_sheet_8_laser_cage_65
+  - first:
+      213: 1693371137043236715
+    second: echoes_sheet_8_laser_cage_66
+  - first:
+      213: -1931596094755518905
+    second: echoes_sheet_8_laser_cage_67
+  - first:
+      213: 2470896727221639957
+    second: echoes_sheet_8_laser_cage_68
+  - first:
+      213: 6781922482131707793
+    second: echoes_sheet_8_laser_cage_69
+  - first:
+      213: 8738335876784174291
+    second: echoes_sheet_8_laser_cage_70
+  - first:
+      213: 9190077822284843569
+    second: echoes_sheet_8_laser_cage_71
+  - first:
+      213: -1163094237934283586
+    second: echoes_sheet_8_laser_cage_72
+  - first:
+      213: -3876346838066058065
+    second: echoes_sheet_8_laser_cage_73
+  - first:
+      213: -3539596941939606898
+    second: echoes_sheet_8_laser_cage_74
+  - first:
+      213: -7590066261050442174
+    second: echoes_sheet_8_laser_cage_75
+  - first:
+      213: -5728216754701446910
+    second: echoes_sheet_8_laser_cage_76
+  - first:
+      213: -2499667769383233307
+    second: echoes_sheet_8_laser_cage_77
+  - first:
+      213: -8797908881773355047
+    second: echoes_sheet_8_laser_cage_78
+  - first:
+      213: 3707762697021456490
+    second: echoes_sheet_8_laser_cage_79
+  - first:
+      213: -4603778037731578014
+    second: echoes_sheet_8_laser_cage_80
+  - first:
+      213: 4984320845768901092
+    second: echoes_sheet_8_laser_cage_81
+  - first:
+      213: 3146940995225962682
+    second: echoes_sheet_8_laser_cage_82
+  - first:
+      213: 3985640976849942653
+    second: echoes_sheet_8_laser_cage_83
+  - first:
+      213: 1984683324092114469
+    second: echoes_sheet_8_laser_cage_84
+  - first:
+      213: 6508348990223303279
+    second: echoes_sheet_8_laser_cage_85
+  - first:
+      213: 6129368844162879100
+    second: echoes_sheet_8_laser_cage_86
+  - first:
+      213: 3059685976068987402
+    second: echoes_sheet_8_laser_cage_87
+  - first:
+      213: 3079732045061677630
+    second: echoes_sheet_8_laser_cage_88
+  - first:
+      213: 8366920382818406132
+    second: echoes_sheet_8_laser_cage_89
+  - first:
+      213: 3217809281285905852
+    second: echoes_sheet_8_laser_cage_90
+  - first:
+      213: 5953877182796038125
+    second: echoes_sheet_8_laser_cage_91
+  - first:
+      213: -4519241021498509395
+    second: echoes_sheet_8_laser_cage_92
+  - first:
+      213: 3311560072085243753
+    second: echoes_sheet_8_laser_cage_93
+  - first:
+      213: 3780098571040794141
+    second: echoes_sheet_8_laser_cage_94
+  - first:
+      213: 690881791864944268
+    second: echoes_sheet_8_laser_cage_95
+  - first:
+      213: 2490456594867601204
+    second: echoes_sheet_8_laser_cage_96
+  - first:
+      213: -6211471675386248261
+    second: echoes_sheet_8_laser_cage_97
+  - first:
+      213: -5990001210540002346
+    second: echoes_sheet_8_laser_cage_98
+  - first:
+      213: 2036835260628012174
+    second: echoes_sheet_8_laser_cage_99
+  - first:
+      213: 5884783865225918374
+    second: echoes_sheet_8_laser_cage_100
+  - first:
+      213: -7191468645819426744
+    second: echoes_sheet_8_laser_cage_101
+  - first:
+      213: -3866542067224589881
+    second: echoes_sheet_8_laser_cage_102
+  - first:
+      213: -6598857197336051380
+    second: echoes_sheet_8_laser_cage_103
+  - first:
+      213: 3062324857149704026
+    second: echoes_sheet_8_laser_cage_104
+  - first:
+      213: 5801993596556536733
+    second: echoes_sheet_8_laser_cage_105
+  - first:
+      213: -2913725741217223996
+    second: echoes_sheet_8_laser_cage_106
+  - first:
+      213: 5051638906978752591
+    second: echoes_sheet_8_laser_cage_107
+  - first:
+      213: 3164803203987110406
+    second: echoes_sheet_8_laser_cage_108
+  - first:
+      213: 3370559795164828146
+    second: echoes_sheet_8_laser_cage_109
+  - first:
+      213: 8718118956303083537
+    second: echoes_sheet_8_laser_cage_110
+  - first:
+      213: 6535960774656761722
+    second: echoes_sheet_8_laser_cage_111
+  - first:
+      213: 2762099182516830735
+    second: echoes_sheet_8_laser_cage_112
+  - first:
+      213: 3627411429481990612
+    second: echoes_sheet_8_laser_cage_113
+  - first:
+      213: -4763790209579457726
+    second: echoes_sheet_8_laser_cage_114
+  - first:
+      213: -6316843558181917400
+    second: echoes_sheet_8_laser_cage_115
+  - first:
+      213: 4380602386088103762
+    second: echoes_sheet_8_laser_cage_116
+  - first:
+      213: -3889750393150806344
+    second: echoes_sheet_8_laser_cage_117
+  - first:
+      213: -6498430667937683843
+    second: echoes_sheet_8_laser_cage_118
+  - first:
+      213: -2030019834374261995
+    second: echoes_sheet_8_laser_cage_119
+  - first:
+      213: 3729311469011795911
+    second: echoes_sheet_8_laser_cage_120
+  - first:
+      213: -5638382885237978157
+    second: echoes_sheet_8_laser_cage_121
+  - first:
+      213: 1438795045674338564
+    second: echoes_sheet_8_laser_cage_122
+  - first:
+      213: -7054758415959263033
+    second: echoes_sheet_8_laser_cage_123
+  - first:
+      213: 2182414735062609924
+    second: echoes_sheet_8_laser_cage_124
+  - first:
+      213: -7182015449359350540
+    second: echoes_sheet_8_laser_cage_125
+  - first:
+      213: -5645616711470148438
+    second: echoes_sheet_8_laser_cage_126
+  - first:
+      213: 7669354052235053657
+    second: echoes_sheet_8_laser_cage_127
+  - first:
+      213: 7564157457368194705
+    second: echoes_sheet_8_laser_cage_128
+  - first:
+      213: -8956397048987914968
+    second: echoes_sheet_8_laser_cage_129
+  - first:
+      213: 2485150722375863716
+    second: echoes_sheet_8_laser_cage_130
+  - first:
+      213: 9064196856544577803
+    second: echoes_sheet_8_laser_cage_131
+  - first:
+      213: -7159419047497690362
+    second: echoes_sheet_8_laser_cage_132
+  - first:
+      213: -4692671376532203712
+    second: echoes_sheet_8_laser_cage_133
+  - first:
+      213: 4012544477229259711
+    second: echoes_sheet_8_laser_cage_134
+  - first:
+      213: 4605384121946342859
+    second: echoes_sheet_8_laser_cage_135
+  - first:
+      213: 3576227525088170348
+    second: echoes_sheet_8_laser_cage_136
+  - first:
+      213: 5119360711060205357
+    second: echoes_sheet_8_laser_cage_137
+  - first:
+      213: 2394631818926050469
+    second: echoes_sheet_8_laser_cage_138
+  - first:
+      213: 2510014362571128220
+    second: echoes_sheet_8_laser_cage_139
+  - first:
+      213: -1579727120277821056
+    second: echoes_sheet_8_laser_cage_140
+  - first:
+      213: -6483872614867978230
+    second: echoes_sheet_8_laser_cage_141
+  - first:
+      213: 6327311667259439572
+    second: echoes_sheet_8_laser_cage_142
+  - first:
+      213: 8289693323812958489
+    second: echoes_sheet_8_laser_cage_143
+  - first:
+      213: 3639183436628524193
+    second: echoes_sheet_8_laser_cage_144
+  - first:
+      213: -5618757971049999835
+    second: echoes_sheet_8_laser_cage_145
+  - first:
+      213: -3957403848503953446
+    second: echoes_sheet_8_laser_cage_146
+  - first:
+      213: 7043674362694952735
+    second: echoes_sheet_8_laser_cage_147
+  - first:
+      213: -3495738065076009252
+    second: echoes_sheet_8_laser_cage_148
+  - first:
+      213: 4690744581662746595
+    second: echoes_sheet_8_laser_cage_149
+  - first:
+      213: 4723857311057645005
+    second: echoes_sheet_8_laser_cage_150
+  - first:
+      213: 315762075478791702
+    second: echoes_sheet_8_laser_cage_151
+  - first:
+      213: -3983389508584878953
+    second: echoes_sheet_8_laser_cage_152
+  - first:
+      213: 2240111683062276097
+    second: echoes_sheet_8_laser_cage_153
+  - first:
+      213: -7070185679878763357
+    second: echoes_sheet_8_laser_cage_154
+  - first:
+      213: 6332536558306734766
+    second: echoes_sheet_8_laser_cage_155
+  - first:
+      213: -5620287661920407047
+    second: echoes_sheet_8_laser_cage_156
+  - first:
+      213: -9187679257176756607
+    second: echoes_sheet_8_laser_cage_157
+  - first:
+      213: -4301199453199964917
+    second: echoes_sheet_8_laser_cage_158
+  - first:
+      213: 1250564184956054902
+    second: echoes_sheet_8_laser_cage_159
+  - first:
+      213: 4159563867790413120
+    second: echoes_sheet_8_laser_cage_160
+  - first:
+      213: -7179927365294228447
+    second: echoes_sheet_8_laser_cage_161
+  - first:
+      213: 4958944199232563477
+    second: echoes_sheet_8_laser_cage_162
+  - first:
+      213: 9107202636641223576
+    second: echoes_sheet_8_laser_cage_163
+  - first:
+      213: -3793837982603754500
+    second: echoes_sheet_8_laser_cage_164
+  - first:
+      213: 8732780168410328784
+    second: echoes_sheet_8_laser_cage_165
+  - first:
+      213: 1940231660201222412
+    second: echoes_sheet_8_laser_cage_166
+  - first:
+      213: -7695219432755609869
+    second: echoes_sheet_8_laser_cage_167
+  - first:
+      213: 6537600447477213997
+    second: echoes_sheet_8_laser_cage_168
+  - first:
+      213: -156727194281015930
+    second: echoes_sheet_8_laser_cage_169
+  - first:
+      213: -7421281840799282308
+    second: echoes_sheet_8_laser_cage_170
+  - first:
+      213: 405378389139719778
+    second: echoes_sheet_8_laser_cage_171
+  - first:
+      213: 8257293961732588017
+    second: echoes_sheet_8_laser_cage_172
+  - first:
+      213: 4598671816700459586
+    second: echoes_sheet_8_laser_cage_173
+  - first:
+      213: -3519509867919049087
+    second: echoes_sheet_8_laser_cage_174
+  - first:
+      213: -5621753092038484797
+    second: echoes_sheet_8_laser_cage_175
+  - first:
+      213: 3361048117398373659
+    second: echoes_sheet_8_laser_cage_176
+  - first:
+      213: -3022727505398487876
+    second: echoes_sheet_8_laser_cage_177
+  - first:
+      213: -29602074946221159
+    second: echoes_sheet_8_laser_cage_178
+  - first:
+      213: -2235876286062339094
+    second: echoes_sheet_8_laser_cage_179
+  - first:
+      213: -5108413836302184121
+    second: echoes_sheet_8_laser_cage_180
+  - first:
+      213: 8827625420234843049
+    second: echoes_sheet_8_laser_cage_181
+  - first:
+      213: 8374629901615609208
+    second: echoes_sheet_8_laser_cage_182
+  - first:
+      213: -3452199746764923326
+    second: echoes_sheet_8_laser_cage_183
+  - first:
+      213: 8573149382179571806
+    second: echoes_sheet_8_laser_cage_184
+  - first:
+      213: -2454981255090897031
+    second: echoes_sheet_8_laser_cage_185
+  - first:
+      213: 2398746102772370599
+    second: echoes_sheet_8_laser_cage_186
+  - first:
+      213: 6504873743293389467
+    second: echoes_sheet_8_laser_cage_187
+  - first:
+      213: -1980445616756552077
+    second: echoes_sheet_8_laser_cage_188
+  - first:
+      213: -7836959705211861558
+    second: echoes_sheet_8_laser_cage_189
+  - first:
+      213: 7207440405966716931
+    second: echoes_sheet_8_laser_cage_190
+  - first:
+      213: 1784691344285745208
+    second: echoes_sheet_8_laser_cage_191
+  - first:
+      213: 7106596024009282460
+    second: echoes_sheet_8_laser_cage_192
+  - first:
+      213: -81476178215522428
+    second: echoes_sheet_8_laser_cage_193
+  - first:
+      213: -2633977025773426843
+    second: echoes_sheet_8_laser_cage_194
+  - first:
+      213: 4002625787342269014
+    second: echoes_sheet_8_laser_cage_195
+  - first:
+      213: -5912189830470579376
+    second: echoes_sheet_8_laser_cage_196
+  - first:
+      213: 1159568829428947558
+    second: echoes_sheet_8_laser_cage_197
+  - first:
+      213: -1976954975557658508
+    second: echoes_sheet_8_laser_cage_198
+  - first:
+      213: 6577900991407030266
+    second: echoes_sheet_8_laser_cage_199
+  - first:
+      213: 841272677198126901
+    second: echoes_sheet_8_laser_cage_200
+  - first:
+      213: 2434198684085277288
+    second: echoes_sheet_8_laser_cage_201
+  - first:
+      213: -1985472192368114750
+    second: echoes_sheet_8_laser_cage_202
+  - first:
+      213: 905439710673233256
+    second: echoes_sheet_8_laser_cage_203
+  - first:
+      213: 8969938065673417837
+    second: echoes_sheet_8_laser_cage_204
+  - first:
+      213: -5578880930179277924
+    second: echoes_sheet_8_laser_cage_205
+  - first:
+      213: 4501323818673331010
+    second: echoes_sheet_8_laser_cage_206
+  - first:
+      213: 5748465195837561297
+    second: echoes_sheet_8_laser_cage_207
+  - first:
+      213: -2121311778712023196
+    second: echoes_sheet_8_laser_cage_208
+  - first:
+      213: 2786657641196110966
+    second: echoes_sheet_8_laser_cage_209
+  - first:
+      213: 1012931526933723118
+    second: echoes_sheet_8_laser_cage_210
+  - first:
+      213: 5013923160646527911
+    second: echoes_sheet_8_laser_cage_211
+  - first:
+      213: 9207039246175568544
+    second: echoes_sheet_8_laser_cage_212
+  - first:
+      213: 4052341695219844490
+    second: echoes_sheet_8_laser_cage_213
+  - first:
+      213: -2053388423550747140
+    second: echoes_sheet_8_laser_cage_214
+  - first:
+      213: -1063357842059593639
+    second: echoes_sheet_8_laser_cage_215
+  - first:
+      213: -2955484070797047864
+    second: echoes_sheet_8_laser_cage_216
+  - first:
+      213: -1244746583017633087
+    second: echoes_sheet_8_laser_cage_217
+  - first:
+      213: 3813452514543962320
+    second: echoes_sheet_8_laser_cage_218
+  - first:
+      213: -6752456779207719274
+    second: echoes_sheet_8_laser_cage_219
+  - first:
+      213: 165723322548844242
+    second: echoes_sheet_8_laser_cage_220
+  - first:
+      213: -8579126850228147845
+    second: echoes_sheet_8_laser_cage_221
+  - first:
+      213: -5163561724596952882
+    second: echoes_sheet_8_laser_cage_222
+  - first:
+      213: 7867117732811129158
+    second: echoes_sheet_8_laser_cage_223
+  - first:
+      213: -4139751199208638642
+    second: echoes_sheet_8_laser_cage_224
+  - first:
+      213: -465164042337653408
+    second: echoes_sheet_8_laser_cage_225
+  - first:
+      213: 6693826974392972320
+    second: echoes_sheet_8_laser_cage_226
+  - first:
+      213: -5121742932642719948
+    second: echoes_sheet_8_laser_cage_227
+  - first:
+      213: 424653402736619364
+    second: echoes_sheet_8_laser_cage_228
+  - first:
+      213: -8529767762648362369
+    second: echoes_sheet_8_laser_cage_229
+  - first:
+      213: -2851266601762739170
+    second: echoes_sheet_8_laser_cage_230
+  - first:
+      213: -2557629471257286152
+    second: echoes_sheet_8_laser_cage_231
+  - first:
+      213: 1043085366665497192
+    second: echoes_sheet_8_laser_cage_232
+  - first:
+      213: -4131128249243768474
+    second: echoes_sheet_8_laser_cage_233
+  - first:
+      213: -2113778910531685421
+    second: echoes_sheet_8_laser_cage_234
+  - first:
+      213: 7412631718385241581
+    second: echoes_sheet_8_laser_cage_235
+  - first:
+      213: 3562262602438037185
+    second: echoes_sheet_8_laser_cage_236
+  - first:
+      213: -6828002096192059322
+    second: echoes_sheet_8_laser_cage_237
+  - first:
+      213: -8691504619475490117
+    second: echoes_sheet_8_laser_cage_238
+  - first:
+      213: -9038427556991198633
+    second: echoes_sheet_8_laser_cage_239
+  - first:
+      213: -6313074745899636267
+    second: echoes_sheet_8_laser_cage_240
+  - first:
+      213: -6152849685573551749
+    second: echoes_sheet_8_laser_cage_241
+  - first:
+      213: 5089346264188117063
+    second: echoes_sheet_8_laser_cage_242
+  - first:
+      213: 6582084357949871789
+    second: echoes_sheet_8_laser_cage_243
+  - first:
+      213: -2434552965597359919
+    second: echoes_sheet_8_laser_cage_244
+  - first:
+      213: 4219038818527222149
+    second: echoes_sheet_8_laser_cage_245
+  - first:
+      213: 4087650342599857773
+    second: echoes_sheet_8_laser_cage_246
+  - first:
+      213: 4759548547417136890
+    second: echoes_sheet_8_laser_cage_247
+  - first:
+      213: 84468433852861337
+    second: echoes_sheet_8_laser_cage_248
+  - first:
+      213: 1398106950608322137
+    second: echoes_sheet_8_laser_cage_249
+  - first:
+      213: -9187377370781206594
+    second: echoes_sheet_8_laser_cage_250
+  - first:
+      213: -5830643055098021714
+    second: echoes_sheet_8_laser_cage_251
+  - first:
+      213: -2275190894334323601
+    second: echoes_sheet_8_laser_cage_252
+  - first:
+      213: 6375068704365579572
+    second: echoes_sheet_8_laser_cage_253
+  - first:
+      213: 6525760178828740354
+    second: echoes_sheet_8_laser_cage_254
+  - first:
+      213: 5488296062628392571
+    second: echoes_sheet_8_laser_cage_255
+  - first:
+      213: 1792081377358207077
+    second: echoes_sheet_8_laser_cage_256
+  - first:
+      213: -4665079115180751505
+    second: echoes_sheet_8_laser_cage_257
+  - first:
+      213: -7911874458939446318
+    second: echoes_sheet_8_laser_cage_258
+  - first:
+      213: -8217546852871607600
+    second: echoes_sheet_8_laser_cage_259
+  - first:
+      213: 2598123954219309310
+    second: echoes_sheet_8_laser_cage_260
+  - first:
+      213: -3731031485253673218
+    second: echoes_sheet_8_laser_cage_261
+  - first:
+      213: -676768546999964872
+    second: echoes_sheet_8_laser_cage_262
+  - first:
+      213: 4232494718713928350
+    second: echoes_sheet_8_laser_cage_263
+  - first:
+      213: -4673921038572997004
+    second: echoes_sheet_8_laser_cage_264
+  - first:
+      213: -5084967071271821636
+    second: echoes_sheet_8_laser_cage_265
+  - first:
+      213: 2365389648129784956
+    second: echoes_sheet_8_laser_cage_266
+  - first:
+      213: -6628671006595506618
+    second: echoes_sheet_8_laser_cage_267
+  - first:
+      213: -5458827183432530658
+    second: echoes_sheet_8_laser_cage_268
+  - first:
+      213: -1486894366168456035
+    second: echoes_sheet_8_laser_cage_269
+  - first:
+      213: -786942172992761029
+    second: echoes_sheet_8_laser_cage_270
+  - first:
+      213: -7758324136009859797
+    second: echoes_sheet_8_laser_cage_271
+  - first:
+      213: -1806653558820418036
+    second: echoes_sheet_8_laser_cage_272
+  - first:
+      213: -1359652056738959121
+    second: echoes_sheet_8_laser_cage_273
+  - first:
+      213: 8249998357146775457
+    second: echoes_sheet_8_laser_cage_274
+  - first:
+      213: -6166737510398444824
+    second: echoes_sheet_8_laser_cage_275
+  - first:
+      213: 5292908599686704739
+    second: echoes_sheet_8_laser_cage_276
+  - first:
+      213: -5561732967695446874
+    second: echoes_sheet_8_laser_cage_277
+  - first:
+      213: -3726611648127946402
+    second: echoes_sheet_8_laser_cage_278
+  - first:
+      213: 8124183973926438931
+    second: echoes_sheet_8_laser_cage_279
+  - first:
+      213: 7170139991701823727
+    second: echoes_sheet_8_laser_cage_280
+  - first:
+      213: 9118583467255431001
+    second: echoes_sheet_8_laser_cage_281
+  - first:
+      213: 2345011046879574960
+    second: echoes_sheet_8_laser_cage_282
+  - first:
+      213: 3330891781170808780
+    second: echoes_sheet_8_laser_cage_283
+  - first:
+      213: -7004549528098676938
+    second: echoes_sheet_8_laser_cage_284
+  - first:
+      213: 4433079257702325178
+    second: echoes_sheet_8_laser_cage_285
+  - first:
+      213: -8157847116800836141
+    second: echoes_sheet_8_laser_cage_286
+  - first:
+      213: 2825102343686327498
+    second: echoes_sheet_8_laser_cage_287
+  - first:
+      213: -7571039887952352921
+    second: echoes_sheet_8_laser_cage_288
+  - first:
+      213: 8720309087202932539
+    second: echoes_sheet_8_laser_cage_289
+  - first:
+      213: 7893098126885008004
+    second: echoes_sheet_8_laser_cage_290
+  - first:
+      213: 1261896990157677726
+    second: echoes_sheet_8_laser_cage_291
+  - first:
+      213: 3209178177916996408
+    second: echoes_sheet_8_laser_cage_292
+  - first:
+      213: 4355728683673156629
+    second: echoes_sheet_8_laser_cage_293
+  - first:
+      213: -8538953382147936189
+    second: echoes_sheet_8_laser_cage_294
+  - first:
+      213: -1524181444189751008
+    second: echoes_sheet_8_laser_cage_295
+  - first:
+      213: 8534449290575497941
+    second: echoes_sheet_8_laser_cage_296
+  - first:
+      213: 3158431936473393081
+    second: echoes_sheet_8_laser_cage_297
+  - first:
+      213: -8358346539809943536
+    second: echoes_sheet_8_laser_cage_298
+  - first:
+      213: 2433330874646112448
+    second: echoes_sheet_8_laser_cage_299
+  - first:
+      213: 3640197236834001878
+    second: echoes_sheet_8_laser_cage_300
+  - first:
+      213: -5627381476181325293
+    second: echoes_sheet_8_laser_cage_301
+  - first:
+      213: 3137044379541384048
+    second: echoes_sheet_8_laser_cage_302
+  - first:
+      213: -7594799319186754218
+    second: echoes_sheet_8_laser_cage_303
+  - first:
+      213: 6083609551457138503
+    second: echoes_sheet_8_laser_cage_304
+  - first:
+      213: 6363847274564407132
+    second: echoes_sheet_8_laser_cage_305
+  - first:
+      213: -1877126093483384929
+    second: echoes_sheet_8_laser_cage_306
+  - first:
+      213: 5895076890478976921
+    second: echoes_sheet_8_laser_cage_307
+  - first:
+      213: -6324890801890567071
+    second: echoes_sheet_8_laser_cage_308
+  - first:
+      213: -118065375091650022
+    second: echoes_sheet_8_laser_cage_309
+  - first:
+      213: 6312387467742156796
+    second: echoes_sheet_8_laser_cage_310
+  - first:
+      213: 1392495279241273547
+    second: echoes_sheet_8_laser_cage_311
+  - first:
+      213: 6431326604128345738
+    second: echoes_sheet_8_laser_cage_312
+  - first:
+      213: 7565770249889105120
+    second: echoes_sheet_8_laser_cage_313
+  - first:
+      213: -6483735977765916479
+    second: echoes_sheet_8_laser_cage_314
+  - first:
+      213: -41981465816184197
+    second: echoes_sheet_8_laser_cage_315
+  - first:
+      213: -7379649601754665678
+    second: echoes_sheet_8_laser_cage_316
+  - first:
+      213: -7282661345116232667
+    second: echoes_sheet_8_laser_cage_317
+  - first:
+      213: -2914475321621910512
+    second: echoes_sheet_8_laser_cage_318
+  - first:
+      213: -556608330844527289
+    second: echoes_sheet_8_laser_cage_319
+  - first:
+      213: -4353024704130359156
+    second: echoes_sheet_8_laser_cage_320
+  - first:
+      213: -2414783461491005044
+    second: echoes_sheet_8_laser_cage_321
+  - first:
+      213: 4440652299291148752
+    second: echoes_sheet_8_laser_cage_322
+  - first:
+      213: 1676969862459924067
+    second: echoes_sheet_8_laser_cage_323
+  - first:
+      213: 5160341023295266607
+    second: echoes_sheet_8_laser_cage_324
+  - first:
+      213: 4450003344843965652
+    second: echoes_sheet_8_laser_cage_325
+  - first:
+      213: 9084619282418514871
+    second: echoes_sheet_8_laser_cage_326
+  - first:
+      213: -2274264545131552959
+    second: echoes_sheet_8_laser_cage_327
+  - first:
+      213: 2781348993769609935
+    second: echoes_sheet_8_laser_cage_328
+  - first:
+      213: -4257640852075712145
+    second: echoes_sheet_8_laser_cage_329
+  - first:
+      213: -2136885184951886632
+    second: echoes_sheet_8_laser_cage_330
+  - first:
+      213: -837228782067331806
+    second: echoes_sheet_8_laser_cage_331
+  - first:
+      213: 7228592632713868970
+    second: echoes_sheet_8_laser_cage_332
+  - first:
+      213: -8626577384237188105
+    second: echoes_sheet_8_laser_cage_333
+  - first:
+      213: -8981267302537013110
+    second: echoes_sheet_8_laser_cage_334
+  - first:
+      213: -4296567991193286189
+    second: echoes_sheet_8_laser_cage_335
+  - first:
+      213: -2541850976091426536
+    second: echoes_sheet_8_laser_cage_336
+  - first:
+      213: -6784957950401801867
+    second: echoes_sheet_8_laser_cage_337
+  - first:
+      213: 4217907075228367920
+    second: echoes_sheet_8_laser_cage_338
+  - first:
+      213: 4490664263783155038
+    second: echoes_sheet_8_laser_cage_339
+  - first:
+      213: -828523753752735300
+    second: echoes_sheet_8_laser_cage_340
+  - first:
+      213: 2907280536750293213
+    second: echoes_sheet_8_laser_cage_341
+  - first:
+      213: 6343544115934620453
+    second: echoes_sheet_8_laser_cage_342
+  - first:
+      213: 8859529045405300505
+    second: echoes_sheet_8_laser_cage_343
+  - first:
+      213: -151026812895898295
+    second: echoes_sheet_8_laser_cage_344
+  - first:
+      213: 681110290601261611
+    second: echoes_sheet_8_laser_cage_345
+  - first:
+      213: -7814464673527585669
+    second: echoes_sheet_8_laser_cage_346
+  - first:
+      213: -4725192190400170323
+    second: echoes_sheet_8_laser_cage_347
+  - first:
+      213: 8674183405164294730
+    second: echoes_sheet_8_laser_cage_348
+  - first:
+      213: 6147672454033312752
+    second: echoes_sheet_8_laser_cage_349
+  - first:
+      213: -8550122826679424249
+    second: echoes_sheet_8_laser_cage_350
+  - first:
+      213: -779285683603704619
+    second: echoes_sheet_8_laser_cage_351
+  - first:
+      213: -3533468317622043905
+    second: echoes_sheet_8_laser_cage_352
+  - first:
+      213: 1222204471691934989
+    second: echoes_sheet_8_laser_cage_353
+  - first:
+      213: -4668525597076363674
+    second: echoes_sheet_8_laser_cage_354
+  - first:
+      213: 3503618326290700334
+    second: echoes_sheet_8_laser_cage_355
+  - first:
+      213: 3183287311399130141
+    second: echoes_sheet_8_laser_cage_356
+  - first:
+      213: 132602833960438881
+    second: echoes_sheet_8_laser_cage_357
+  - first:
+      213: 7720435109709904231
+    second: echoes_sheet_8_laser_cage_358
+  - first:
+      213: -1973416914271267082
+    second: echoes_sheet_8_laser_cage_359
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 536
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9c4873ab5e46620800000000000000
+      internalID: 2766588659070454256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_1
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772c5e647fb9d940800000000000000
+      internalID: 5321494941503596403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_2
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0be67a0e923b6f0800000000000000
+      internalID: -670145874689609489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_3
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dac11f1094394b0800000000000000
+      internalID: -5434920052617073383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_4
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a187fa3f042ae80800000000000000
+      internalID: -8168895358731543974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_5
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f684c5454f357040800000000000000
+      internalID: 4644688157458335480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_6
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfbf947730d9e9c0800000000000000
+      internalID: -3897355065914048565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_7
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5917
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bd380aa586106b0800000000000000
+      internalID: -5331865745380615395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d0d0b90f58fb520800000000000000
+      internalID: 2720039968395038029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe10a77d4fb4f80800000000000000
+      internalID: -8121128296730464441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403617a1ceb0bdfb0800000000000000
+      internalID: -4622087483881856252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_11
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6f0167ec067ef0800000000000000
+      internalID: -110886952918618439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_12
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66010f0195dd47e0800000000000000
+      internalID: -1779531458742778262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_13
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e230c9378aefb0800000000000000
+      internalID: -4617729785807575614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_14
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c5b9a21f75ac9e0800000000000000
+      internalID: -1600370024263230318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_15
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5381
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4859f14a16b3d0800000000000000
+      internalID: -3191334415286907876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52088bd699b084090800000000000000
+      internalID: -8050171580326051803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_17
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc783bc6d2412fc0800000000000000
+      internalID: -3521459943327105801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_18
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6c50906908fd720800000000000000
+      internalID: 2873156469170488997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_19
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac780c4b2b22a30800000000000000
+      internalID: 4189107092801964778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_20
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7243667133e1f60800000000000000
+      internalID: 8006893363103279049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_21
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45db2dd81fb308280800000000000000
+      internalID: -9043162143107400364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_22
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75028d222b06b87d0800000000000000
+      internalID: -2915130015587229609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_23
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 4845
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd57d894766421500800000000000000
+      internalID: 365431929200014815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa9af627f12dfa0800000000000000
+      internalID: -5777520795602800726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_25
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca898a63ecbc360800000000000000
+      internalID: 7191067964179262680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_26
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd4b78d8022f000800000000000000
+      internalID: 68152736603233338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_27
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419b3b1d4ab04140800000000000000
+      internalID: 4701962851306934604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_28
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3700c54350df7d3e0800000000000000
+      internalID: -2028874908312010637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_29
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843beca8c946eef50800000000000000
+      internalID: 6912573101566767944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_30
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9021bfe0b8e48930800000000000000
+      internalID: 4144693403720949919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_31
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 4309
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e03bc83555f80b0800000000000000
+      internalID: -5724262784033419767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aa14630af22e040800000000000000
+      internalID: 4675351728315542082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_33
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50735a6bdf05c6340800000000000000
+      internalID: 4858347148647151365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_34
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60280db799b084e30800000000000000
+      internalID: 4487849782509863430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_35
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e481dd2362268940800000000000000
+      internalID: 5297959821013779680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_36
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac3f0e68655b8c0800000000000000
+      internalID: -3984183158039655699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_37
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6bc0df6df00e60800000000000000
+      internalID: 7926614000858263189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_38
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f082d62db834f20800000000000000
+      internalID: 3405719479112961797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_39
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3773
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072403c86696ce090800000000000000
+      internalID: -8003906548584660368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695546ad84933c30800000000000000
+      internalID: 4337974202188781922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec4ccf20ebaf3f50800000000000000
+      internalID: 6863393336498867436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_42
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3422e16bfb33e5060800000000000000
+      internalID: 6944044573939081795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_43
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc38ad7bb9ddf0b0800000000000000
+      internalID: -5693154954636149573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_44
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e2660ba064cab0800000000000000
+      internalID: -4988756199556847607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_45
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2858a5eb404ece0800000000000000
+      internalID: -1376970370459532619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_46
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe2aa3544121770800000000000000
+      internalID: 8579942527663271916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_47
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3237
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18731d6e48c498c10800000000000000
+      internalID: 2056258838563207041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410aa9ecd99430f00800000000000000
+      internalID: 1081789277623984148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_49
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30f0ac376fd4e630800000000000000
+      internalID: 3955532007229943868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_50
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d2e70f71ec6260800000000000000
+      internalID: 7092291448911091686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_51
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7428498e014366bb0800000000000000
+      internalID: -4943206293766372793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_52
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d17d93c3e27500800000000000000
+      internalID: 392626546834264977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_53
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c6d18d29c10efd0800000000000000
+      internalID: -2314818791451825006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_54
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc233e92b06c4cc90800000000000000
+      internalID: -7150372557107809585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_55
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2701
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639659a4b2fcdce30800000000000000
+      internalID: 4525500985419065654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd879a794611e1150800000000000000
+      internalID: 5845128490112350427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_57
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166fa650af89027d0800000000000000
+      internalID: -2945185956700162463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_58
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54eaf45af3b02f40800000000000000
+      internalID: 5701755015999972446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_59
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4983dd8410dea500800000000000000
+      internalID: 409493402834667853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_60
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82882616b1d370290800000000000000
+      internalID: -7924297831527839704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_61
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50476bd1a51b5a5b0800000000000000
+      internalID: -5357681181083667451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_62
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b02b4266eb293660800000000000000
+      internalID: 7365966934032720049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_63
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2165
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562f4280dffebde80800000000000000
+      internalID: -8152658830381747611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b0a89b0d99112a0800000000000000
+      internalID: -6768459643216065765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_65
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59c42dde51f68000800000000000000
+      internalID: 37983036618623325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_66
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b678c58c310108710800000000000000
+      internalID: 1693371137043236715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_67
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746c09af5979135e0800000000000000
+      internalID: -1931596094755518905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_68
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b98b66b736a4220800000000000000
+      internalID: 2470896727221639957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_69
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19722b9b09a3e1e50800000000000000
+      internalID: 6781922482131707793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_70
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b5c7ae2ec44970800000000000000
+      internalID: 8738335876784174291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_71
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1629
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13acb779617b98f70800000000000000
+      internalID: 9190077822284843569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb49f93f3fbdbdfe0800000000000000
+      internalID: -1163094237934283586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_73
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac2ddaa613743ac0800000000000000
+      internalID: -3876346838066058065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_74
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a71abb553d0eec0800000000000000
+      internalID: -3539596941939606898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_75
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e396013faaaa690800000000000000
+      internalID: -7590066261050442174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_76
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201549306394180b0800000000000000
+      internalID: -5728216754701446910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_77
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e85b6558656f4dd0800000000000000
+      internalID: -2499667769383233307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_78
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df15af3c7c87e580800000000000000
+      internalID: -8797908881773355047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_79
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1093
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a608863478e947330800000000000000
+      internalID: 3707762697021456490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fa34c34481c10c0800000000000000
+      internalID: -4603778037731578014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_81
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e141a2b66ddb2540800000000000000
+      internalID: 4984320845768901092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_82
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8ce85792e2cab20800000000000000
+      internalID: 3146940995225962682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_83
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78b1630a57df4730800000000000000
+      internalID: 3985640976849942653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_84
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e62cc7f20b8b10800000000000000
+      internalID: 1984683324092114469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_85
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6248848cec425a50800000000000000
+      internalID: 6508348990223303279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_86
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eccad2d74ef0550800000000000000
+      internalID: 6129368844162879100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_87
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 557
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a16df2f20367a20800000000000000
+      internalID: 3059685976068987402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32e9455af76dba20800000000000000
+      internalID: 3079732045061677630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_89
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fecdd122c54d1470800000000000000
+      internalID: 8366920382818406132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_90
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd500e1e74f7ac20800000000000000
+      internalID: 3217809281285905852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_91
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7cd4b0cb60a250800000000000000
+      internalID: 5953877182796038125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_92
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da735332c3e6841c0800000000000000
+      internalID: -4519241021498509395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_93
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9670205175605fd20800000000000000
+      internalID: 3311560072085243753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_94
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1629de5f9b957430800000000000000
+      internalID: 3780098571040794141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: echoes_sheet_8_laser_cage_95
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 21
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8635e94451869900800000000000000
+      internalID: 690881791864944268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4b2f1421f3bfe984c96f0940609887df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":536.0,"y":536.0},"gridSpriteOffset":{"x":0.0,"y":3.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      echoes_sheet_8_laser_cage_0: 2766588659070454256
+      echoes_sheet_8_laser_cage_1: 5321494941503596403
+      echoes_sheet_8_laser_cage_10: -4622087483881856252
+      echoes_sheet_8_laser_cage_11: -110886952918618439
+      echoes_sheet_8_laser_cage_12: -1779531458742778262
+      echoes_sheet_8_laser_cage_13: -4617729785807575614
+      echoes_sheet_8_laser_cage_14: -1600370024263230318
+      echoes_sheet_8_laser_cage_15: -3191334415286907876
+      echoes_sheet_8_laser_cage_16: -8050171580326051803
+      echoes_sheet_8_laser_cage_17: -3521459943327105801
+      echoes_sheet_8_laser_cage_18: 2873156469170488997
+      echoes_sheet_8_laser_cage_19: 4189107092801964778
+      echoes_sheet_8_laser_cage_2: -670145874689609489
+      echoes_sheet_8_laser_cage_20: 8006893363103279049
+      echoes_sheet_8_laser_cage_21: -9043162143107400364
+      echoes_sheet_8_laser_cage_22: -2915130015587229609
+      echoes_sheet_8_laser_cage_23: 365431929200014815
+      echoes_sheet_8_laser_cage_24: -5777520795602800726
+      echoes_sheet_8_laser_cage_25: 7191067964179262680
+      echoes_sheet_8_laser_cage_26: 68152736603233338
+      echoes_sheet_8_laser_cage_27: 4701962851306934604
+      echoes_sheet_8_laser_cage_28: -2028874908312010637
+      echoes_sheet_8_laser_cage_29: 6912573101566767944
+      echoes_sheet_8_laser_cage_3: -5434920052617073383
+      echoes_sheet_8_laser_cage_30: 4144693403720949919
+      echoes_sheet_8_laser_cage_31: -5724262784033419767
+      echoes_sheet_8_laser_cage_32: 4675351728315542082
+      echoes_sheet_8_laser_cage_33: 4858347148647151365
+      echoes_sheet_8_laser_cage_34: 4487849782509863430
+      echoes_sheet_8_laser_cage_35: 5297959821013779680
+      echoes_sheet_8_laser_cage_36: -3984183158039655699
+      echoes_sheet_8_laser_cage_37: 7926614000858263189
+      echoes_sheet_8_laser_cage_38: 3405719479112961797
+      echoes_sheet_8_laser_cage_39: -8003906548584660368
+      echoes_sheet_8_laser_cage_4: -8168895358731543974
+      echoes_sheet_8_laser_cage_40: 4337974202188781922
+      echoes_sheet_8_laser_cage_41: 6863393336498867436
+      echoes_sheet_8_laser_cage_42: 6944044573939081795
+      echoes_sheet_8_laser_cage_43: -5693154954636149573
+      echoes_sheet_8_laser_cage_44: -4988756199556847607
+      echoes_sheet_8_laser_cage_45: -1376970370459532619
+      echoes_sheet_8_laser_cage_46: 8579942527663271916
+      echoes_sheet_8_laser_cage_47: 2056258838563207041
+      echoes_sheet_8_laser_cage_48: 1081789277623984148
+      echoes_sheet_8_laser_cage_49: 3955532007229943868
+      echoes_sheet_8_laser_cage_5: 4644688157458335480
+      echoes_sheet_8_laser_cage_50: 7092291448911091686
+      echoes_sheet_8_laser_cage_51: -4943206293766372793
+      echoes_sheet_8_laser_cage_52: 392626546834264977
+      echoes_sheet_8_laser_cage_53: -2314818791451825006
+      echoes_sheet_8_laser_cage_54: -7150372557107809585
+      echoes_sheet_8_laser_cage_55: 4525500985419065654
+      echoes_sheet_8_laser_cage_56: 5845128490112350427
+      echoes_sheet_8_laser_cage_57: -2945185956700162463
+      echoes_sheet_8_laser_cage_58: 5701755015999972446
+      echoes_sheet_8_laser_cage_59: 409493402834667853
+      echoes_sheet_8_laser_cage_6: -3897355065914048565
+      echoes_sheet_8_laser_cage_60: -7924297831527839704
+      echoes_sheet_8_laser_cage_61: -5357681181083667451
+      echoes_sheet_8_laser_cage_62: 7365966934032720049
+      echoes_sheet_8_laser_cage_63: -8152658830381747611
+      echoes_sheet_8_laser_cage_64: -6768459643216065765
+      echoes_sheet_8_laser_cage_65: 37983036618623325
+      echoes_sheet_8_laser_cage_66: 1693371137043236715
+      echoes_sheet_8_laser_cage_67: -1931596094755518905
+      echoes_sheet_8_laser_cage_68: 2470896727221639957
+      echoes_sheet_8_laser_cage_69: 6781922482131707793
+      echoes_sheet_8_laser_cage_7: -5331865745380615395
+      echoes_sheet_8_laser_cage_70: 8738335876784174291
+      echoes_sheet_8_laser_cage_71: 9190077822284843569
+      echoes_sheet_8_laser_cage_72: -1163094237934283586
+      echoes_sheet_8_laser_cage_73: -3876346838066058065
+      echoes_sheet_8_laser_cage_74: -3539596941939606898
+      echoes_sheet_8_laser_cage_75: -7590066261050442174
+      echoes_sheet_8_laser_cage_76: -5728216754701446910
+      echoes_sheet_8_laser_cage_77: -2499667769383233307
+      echoes_sheet_8_laser_cage_78: -8797908881773355047
+      echoes_sheet_8_laser_cage_79: 3707762697021456490
+      echoes_sheet_8_laser_cage_8: 2720039968395038029
+      echoes_sheet_8_laser_cage_80: -4603778037731578014
+      echoes_sheet_8_laser_cage_81: 4984320845768901092
+      echoes_sheet_8_laser_cage_82: 3146940995225962682
+      echoes_sheet_8_laser_cage_83: 3985640976849942653
+      echoes_sheet_8_laser_cage_84: 1984683324092114469
+      echoes_sheet_8_laser_cage_85: 6508348990223303279
+      echoes_sheet_8_laser_cage_86: 6129368844162879100
+      echoes_sheet_8_laser_cage_87: 3059685976068987402
+      echoes_sheet_8_laser_cage_88: 3079732045061677630
+      echoes_sheet_8_laser_cage_89: 8366920382818406132
+      echoes_sheet_8_laser_cage_9: -8121128296730464441
+      echoes_sheet_8_laser_cage_90: 3217809281285905852
+      echoes_sheet_8_laser_cage_91: 5953877182796038125
+      echoes_sheet_8_laser_cage_92: -4519241021498509395
+      echoes_sheet_8_laser_cage_93: 3311560072085243753
+      echoes_sheet_8_laser_cage_94: 3780098571040794141
+      echoes_sheet_8_laser_cage_95: 690881791864944268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

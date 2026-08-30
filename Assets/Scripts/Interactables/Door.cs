@@ -1,16 +1,21 @@
 using UnityEngine;
 
 // Door — opens when its linked HoldPlate is pressed, closes when released.
-// Same pattern as StaticLaser: exposes an Open()/Close() pair that
-// HoldPlate calls directly.
+// Same pattern as StaticLaser: exposes an Open()/Close() pair, and
+// implements IToggleable so HoldPlate can actually find and call it
+// (this was the missing piece — HoldPlate looks for IToggleable
+// specifically, not Open()/Close() directly).
+//
+// Sprite-swap only — no color tint.
 
 [RequireComponent(typeof(Collider2D))]
-public class Door : MonoBehaviour
+public class Door : MonoBehaviour, IToggleable
 {
-    [Header("Visual")]
+    [Header("Visual — Sprites")]
+    public Sprite closedSprite;
+    public Sprite openSprite;
+
     public SpriteRenderer doorRenderer;
-    public Color closedColor = new Color(0.5f, 0.35f, 0.2f, 1f);   // solid brown
-    public Color openColor = new Color(0.5f, 0.35f, 0.2f, 0.25f);  // faded/see-through
 
     private Collider2D doorCollider;
 
@@ -24,14 +29,23 @@ public class Door : MonoBehaviour
     public void Open()
     {
         doorCollider.enabled = false; // no longer solid — player/echo can pass through
-        if (doorRenderer != null)
-            doorRenderer.color = openColor;
+
+        if (doorRenderer != null && openSprite != null)
+            doorRenderer.sprite = openSprite;
     }
 
     public void Close()
     {
         doorCollider.enabled = true; // solid again — blocks movement
-        if (doorRenderer != null)
-            doorRenderer.color = closedColor;
+
+        if (doorRenderer != null && closedSprite != null)
+            doorRenderer.sprite = closedSprite;
+    }
+
+    // IToggleable — called by a linked HoldPlate.
+    public void SetActive(bool active)
+    {
+        if (active) Open();
+        else Close();
     }
 }
