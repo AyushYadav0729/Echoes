@@ -77,8 +77,14 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
         if (linkedObject != null)
         {
-            var toggleable = linkedObject.GetComponent<IToggleable>();
-            toggleable?.SetActive(true); // pressing activates the linked object
+            var laser = linkedObject.GetComponent<StaticLaser>();
+            laser?.SetActive(false); // holding a plate disables its linked static laser
+
+            var door = linkedObject.GetComponent<Door>();
+            door?.Open();
+
+            var platform = linkedObject.GetComponent<MovingPlatform>();
+            platform?.Raise();
         }
     }
 
@@ -92,8 +98,14 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
         if (linkedObject != null)
         {
-            var toggleable = linkedObject.GetComponent<IToggleable>();
-            toggleable?.SetActive(false); // releasing deactivates the linked object
+            var laser = linkedObject.GetComponent<StaticLaser>();
+            laser?.SetActive(true);
+
+            var door = linkedObject.GetComponent<Door>();
+            door?.Close();
+
+            var platform = linkedObject.GetComponent<MovingPlatform>();
+            platform?.Lower();
         }
     }
 }
