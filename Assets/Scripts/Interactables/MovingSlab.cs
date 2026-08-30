@@ -7,6 +7,11 @@ using UnityEngine;
 // Axis, travel distance, and speed are all set per-instance in the
 // Inspector, so one script covers every moving-slab placement.
 //
+// UPDATED: resets to its starting position whenever a new echo is created
+// (GameEvents.OnAttemptEnded) or the level is restarted
+// (GameEvents.OnLevelReset) — so every attempt begins from a consistent,
+// predictable slab position.
+//
 // Setup: link this object from a HoldPlate's "Linked Object" field, same
 // as you'd link a Laser — HoldPlate calls SetActive() through IToggleable.
 [RequireComponent(typeof(Rigidbody2D))]
@@ -33,6 +38,37 @@ public class MovingSlab : MonoBehaviour, IToggleable
         rb.bodyType = RigidbodyType2D.Kinematic; // moved manually, not by physics forces
         startPos = rb.position;
         axisDir = moveAxis == Axis.Horizontal ? Vector2.right : Vector2.up;
+    }
+
+    void OnEnable()
+    {
+        GameEvents.OnAttemptEnded += HandleAttemptEnded;
+        GameEvents.OnLevelReset += HandleLevelReset;
+    }
+
+    void OnDisable()
+    {
+        GameEvents.OnAttemptEnded -= HandleAttemptEnded;
+        GameEvents.OnLevelReset -= HandleLevelReset;
+    }
+
+    private void HandleAttemptEnded(AttemptResult result)
+    {
+        ResetToStart();
+    }
+
+    private void HandleLevelReset()
+    {
+        ResetToStart();
+    }
+
+    public void ResetToStart()
+    {
+        currentOffset = 0f;
+        movingForward = true;
+        isMoving = false; // freeze until its plate is pressed again
+        passengers.Clear();
+        rb.position = startPos;
     }
 
     // IToggleable — called by a linked HoldPlate. active = plate currently held.

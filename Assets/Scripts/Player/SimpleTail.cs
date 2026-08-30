@@ -25,6 +25,10 @@ public class SimpleTail : MonoBehaviour
     public float startWidth = 0.08f;
     public float endWidth = 0.02f;      // tapers to a point at the tip
 
+    [Header("Color — set in Inspector")]
+    public Color startColor = new Color(1f, 0.6f, 0.1f, 1f); // orange, fully opaque at the body
+    public Color endColor = new Color(1f, 1f, 1f, 0f);       // fades to transparent at the tip
+
     [Header("Curve")]
     public int curveResolution = 12;    // more points = smoother curve
 
@@ -43,18 +47,23 @@ public class SimpleTail : MonoBehaviour
         midPosition = bodyAnchor.position - new Vector3(midRestingOffset, 0, 0);
         tipPosition = midPosition - new Vector3(tipRestingOffset, 0, 0);
 
+        ApplyGradient();
+    }
+
+    private void ApplyGradient()
+    {
         Gradient gradient = new Gradient();
         gradient.SetKeys(
             new GradientColorKey[] {
-                new GradientColorKey(Color.orange, 0f),
-                new GradientColorKey(Color.white, 1f)
+                new GradientColorKey(startColor, 0f),
+                new GradientColorKey(endColor, 1f)
             },
             new GradientAlphaKey[] {
-                new GradientAlphaKey(1f, 0f),   // fully opaque at the body
-                new GradientAlphaKey(0f, 1f)    // fully transparent at the tip
+                new GradientAlphaKey(startColor.a, 0f),
+                new GradientAlphaKey(endColor.a, 1f)
             }
-);
-line.colorGradient = gradient;
+        );
+        line.colorGradient = gradient;
     }
 
     void LateUpdate()

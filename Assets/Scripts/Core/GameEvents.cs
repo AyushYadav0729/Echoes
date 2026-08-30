@@ -11,6 +11,8 @@ using System;
 
 public static class GameEvents
 {
+    public static event Action OnLevelReset;
+    public static void RaiseLevelReset() => OnLevelReset?.Invoke();
     public static event Action<AttemptResult> OnAttemptEnded;
     public static event Action<int> OnEchoCountChanged;
     public static event Action OnLevelCleared;
