@@ -5,7 +5,14 @@ using UnityEngine;
 // ---------- Spikes ----------
 // Static hazard. No movement, just instant death on touch.
 public class Spike : MonoBehaviour
-{
+{   
+    [Header("Rotation Settings")]
+    public float degreesPerSecond = 90f; // positive = counter-clockwise, negative = clockwise
+ 
+    void Update()
+    {
+        transform.Rotate(0f, 0f, degreesPerSecond * Time.deltaTime);
+    }
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))

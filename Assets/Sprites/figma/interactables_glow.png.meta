@@ -1,0 +1,891 @@
+fileFormatVersion: 2
+guid: b65b45f014ea4924f98a0d757c10aa31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5912711995608725025
+    second: interactables_glow_0
+  - first:
+      213: -2180546031773303577
+    second: interactables_glow_1
+  - first:
+      213: -7504116419534888738
+    second: interactables_glow_2
+  - first:
+      213: -116397704781061740
+    second: interactables_glow_3
+  - first:
+      213: 6550543238400184339
+    second: interactables_glow_4
+  - first:
+      213: 7979428687277616210
+    second: interactables_glow_5
+  - first:
+      213: -2208223932579953896
+    second: interactables_glow_6
+  - first:
+      213: 6024633735352188761
+    second: interactables_glow_7
+  - first:
+      213: -7014927868394160191
+    second: interactables_glow_8
+  - first:
+      213: -4563148232357309459
+    second: interactables_glow_9
+  - first:
+      213: -682983630846383109
+    second: interactables_glow_10
+  - first:
+      213: 3137696527524236817
+    second: interactables_glow_11
+  - first:
+      213: -4792243879372619442
+    second: interactables_glow_12
+  - first:
+      213: -3582318057833827417
+    second: interactables_glow_13
+  - first:
+      213: 8595738339194832413
+    second: interactables_glow_14
+  - first:
+      213: -2171758610320353739
+    second: interactables_glow_15
+  - first:
+      213: 6352579066723978104
+    second: interactables_glow_16
+  - first:
+      213: -5742191131357011116
+    second: interactables_glow_17
+  - first:
+      213: 4557472389669953356
+    second: interactables_glow_18
+  - first:
+      213: 6084880606175468493
+    second: interactables_glow_19
+  - first:
+      213: 2877020657873232139
+    second: interactables_glow_20
+  - first:
+      213: -3623505199041156610
+    second: interactables_glow_21
+  - first:
+      213: 3667893236615849866
+    second: interactables_glow_22
+  - first:
+      213: 6266629279641957567
+    second: interactables_glow_23
+  - first:
+      213: 182502285628521010
+    second: interactables_glow_24
+  - first:
+      213: 3338605260494537739
+    second: interactables_glow_25
+  - first:
+      213: 4632300120236680226
+    second: interactables_glow_26
+  - first:
+      213: 2977442761467950156
+    second: interactables_glow_27
+  - first:
+      213: 7104654086993891805
+    second: interactables_glow_28
+  - first:
+      213: -7651426788633509719
+    second: interactables_glow_29
+  - first:
+      213: -3684623471462838639
+    second: interactables_glow_30
+  - first:
+      213: 2787519659918603506
+    second: interactables_glow_31
+  - first:
+      213: -2737701080361712567
+    second: interactables_glow_32
+  - first:
+      213: -214057414462910575
+    second: interactables_glow_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: interactables_glow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126f27dab3c2e0250800000000000000
+      internalID: 5912711995608725025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecb3c7efe42db1e0800000000000000
+      internalID: -2180546031773303577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_2
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0627cffd50cd790800000000000000
+      internalID: -7504116419534888738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_3
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491aad977e8726ef0800000000000000
+      internalID: -116397704781061740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3101eaa7e5438ea50800000000000000
+      internalID: 6550543238400184339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6ebf3d10acbe60800000000000000
+      internalID: 7979428687277616210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_6
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8134e027800da51e0800000000000000
+      internalID: -2208223932579953896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_7
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f7081667ccb9350800000000000000
+      internalID: 6024633735352188761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb0673548f5ae90800000000000000
+      internalID: -7014927868394160191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de314e8fbd07ca0c0800000000000000
+      internalID: -4563148232357309459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbaeff910e8586f0800000000000000
+      internalID: -682983630846383109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e0f081e565b8b20800000000000000
+      internalID: 3137696527524236817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_12
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4184f405978e7db0800000000000000
+      internalID: -4792243879372619442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_13
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3f852d4bc094ec0800000000000000
+      internalID: -3582318057833827417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_14
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d160ae13a723a4770800000000000000
+      internalID: 8595738339194832413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53695f5ec0d5cd1e0800000000000000
+      internalID: -2171758610320353739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b4aa7f005e82850800000000000000
+      internalID: 6352579066723978104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_17
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532117e693af40b0800000000000000
+      internalID: -5742191131357011116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_18
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9debedf46f3f30800000000000000
+      internalID: 4557472389669953356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_19
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb90c71ca6d17450800000000000000
+      internalID: 6084880606175468493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_20
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01aef39b0b3de720800000000000000
+      internalID: 2877020657873232139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_21
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ee593839b6bdc0800000000000000
+      internalID: -3623505199041156610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ab822779f6e230800000000000000
+      internalID: 3667893236615849866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_23
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4fe18b02a87f650800000000000000
+      internalID: 6266629279641957567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_24
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab591acd0688200800000000000000
+      internalID: 182502285628521010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b040705bbcb155e20800000000000000
+      internalID: 3338605260494537739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_26
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224e4b79a6c394040800000000000000
+      internalID: 4632300120236680226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: interactables_glow_27
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44fa589a60025920800000000000000
+      internalID: 2977442761467950156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: de4a75fda6c18044f9f1ced223c6232e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":536.0,"y":536.0},"gridSpriteOffset":{"x":5.0,"y":5.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      interactables_glow_0: 5912711995608725025
+      interactables_glow_1: -2180546031773303577
+      interactables_glow_10: -682983630846383109
+      interactables_glow_11: 3137696527524236817
+      interactables_glow_12: -4792243879372619442
+      interactables_glow_13: -3582318057833827417
+      interactables_glow_14: 8595738339194832413
+      interactables_glow_15: -2171758610320353739
+      interactables_glow_16: 6352579066723978104
+      interactables_glow_17: -5742191131357011116
+      interactables_glow_18: 4557472389669953356
+      interactables_glow_19: 6084880606175468493
+      interactables_glow_2: -7504116419534888738
+      interactables_glow_20: 2877020657873232139
+      interactables_glow_21: -3623505199041156610
+      interactables_glow_22: 3667893236615849866
+      interactables_glow_23: 6266629279641957567
+      interactables_glow_24: 182502285628521010
+      interactables_glow_25: 3338605260494537739
+      interactables_glow_26: 4632300120236680226
+      interactables_glow_27: 2977442761467950156
+      interactables_glow_3: -116397704781061740
+      interactables_glow_4: 6550543238400184339
+      interactables_glow_5: 7979428687277616210
+      interactables_glow_6: -2208223932579953896
+      interactables_glow_7: 6024633735352188761
+      interactables_glow_8: -7014927868394160191
+      interactables_glow_9: -4563148232357309459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

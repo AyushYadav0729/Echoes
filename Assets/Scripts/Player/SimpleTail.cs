@@ -46,7 +46,7 @@ public class SimpleTail : MonoBehaviour
         Gradient gradient = new Gradient();
         gradient.SetKeys(
             new GradientColorKey[] {
-                new GradientColorKey(Color.cyan, 0f),
+                new GradientColorKey(Color.orange, 0f),
                 new GradientColorKey(Color.white, 1f)
             },
             new GradientAlphaKey[] {
