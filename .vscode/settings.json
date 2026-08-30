@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Echoes.slnx",
+    "dotnet.defaultSolution": "My project (2).slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }

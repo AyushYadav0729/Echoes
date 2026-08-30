@@ -451,6 +451,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4970390927066637855, guid: c1398f6fad32edc4c8a9443ed69063b9, type: 3}
+      propertyPath: trail
+      value: 
+      objectReference: {fileID: 1532730883}
     - target: {fileID: 6366906519224378493, guid: a3f8b0c81f58b2a49be9039fe747e45c, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -471,10 +475,6 @@ PrefabInstance:
       propertyPath: groundLayer.m_Bits
       value: 512
       objectReference: {fileID: 0}
-    - target: {fileID: 4970390927066637855, guid: c1398f6fad32edc4c8a9443ed69063b9, type: 3}
-      propertyPath: trail
-      value: 
-      objectReference: {fileID: 1532730883}
     - target: {fileID: 962646390983741878, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
       propertyPath: m_Layer
       value: 6

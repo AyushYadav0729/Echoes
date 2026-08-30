@@ -3,22 +3,26 @@ using UnityEngine;
 // Filled in. Class/method names and signatures unchanged from the template.
 // Implements IInteractable (from Core/) so it works identically whether
 // triggered by the live player or an echo.
+//
+// No color/sprite change — instead, the plate physically moves down when
+// pressed and back up when released, like a real mechanical button.
 
 public class HoldPlate : MonoBehaviour, IInteractable
 {
     [Header("Linked Object")]
     public GameObject linkedObject; // e.g. a door, or a StaticLaser to disable
 
-    [Header("Visual")]
-    public SpriteRenderer plateRenderer;
-    public Color activeColor = new Color(1f, 0.75f, 0.2f, 1f);   // amber
-    public Color inactiveColor = new Color(0.5f, 0.5f, 0.5f, 0.4f); // dim outline look
+    [Header("Press Movement")]
+    public float pressDepth = 0.08f; // how far down the plate moves when pressed
 
     private int pressingCount = 0; // how many things are currently on the plate
+    private Vector3 upPosition;
+    private Vector3 downPosition;
 
     void Awake()
     {
-        if (plateRenderer == null) plateRenderer = GetComponent<SpriteRenderer>();
+        upPosition = transform.localPosition;
+        downPosition = upPosition - new Vector3(0f, pressDepth, 0f);
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -41,14 +45,13 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
     public void OnPressed(GameObject presser)
     {
-        if (plateRenderer != null)
-            plateRenderer.color = activeColor;
+        transform.localPosition = downPosition;
 
         if (linkedObject != null)
         {
             var laser = linkedObject.GetComponent<StaticLaser>();
             laser?.SetActive(false); // holding a plate disables its linked static laser
-            
+
             var door = linkedObject.GetComponent<Door>();
             door?.Open();
 
@@ -59,8 +62,7 @@ public class HoldPlate : MonoBehaviour, IInteractable
 
     public void OnReleased(GameObject presser)
     {
-        if (plateRenderer != null)
-            plateRenderer.color = inactiveColor;
+        transform.localPosition = upPosition;
 
         if (linkedObject != null)
         {
