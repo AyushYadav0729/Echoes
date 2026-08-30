@@ -1,0 +1,4591 @@
+fileFormatVersion: 2
+guid: 19dc9e54f717fa24c814f25a65160d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3167995638541888156
+    second: hazards_glow_0
+  - first:
+      213: 7286388276822246282
+    second: hazards_glow_1
+  - first:
+      213: -1137352076194168097
+    second: hazards_glow_2
+  - first:
+      213: -4429265100103604671
+    second: hazards_glow_3
+  - first:
+      213: -2540830581560795592
+    second: hazards_glow_4
+  - first:
+      213: 3855895006956221861
+    second: hazards_glow_5
+  - first:
+      213: 2660987760030938237
+    second: hazards_glow_6
+  - first:
+      213: 8573683315963811227
+    second: hazards_glow_7
+  - first:
+      213: -3679720326197684712
+    second: hazards_glow_8
+  - first:
+      213: 7012438841743404270
+    second: hazards_glow_9
+  - first:
+      213: -227680024117354827
+    second: hazards_glow_10
+  - first:
+      213: -1097840549863141242
+    second: hazards_glow_11
+  - first:
+      213: -475804551943588704
+    second: hazards_glow_12
+  - first:
+      213: 4242448916163884268
+    second: hazards_glow_13
+  - first:
+      213: -9146601302487695951
+    second: hazards_glow_14
+  - first:
+      213: 6506984443233528395
+    second: hazards_glow_15
+  - first:
+      213: -3736529263663753724
+    second: hazards_glow_16
+  - first:
+      213: 1540894755189953767
+    second: hazards_glow_17
+  - first:
+      213: 8329610337211995478
+    second: hazards_glow_18
+  - first:
+      213: -4263420534599904254
+    second: hazards_glow_19
+  - first:
+      213: 3970291437829531521
+    second: hazards_glow_20
+  - first:
+      213: 2883594451219561149
+    second: hazards_glow_21
+  - first:
+      213: 4438578733816066829
+    second: hazards_glow_22
+  - first:
+      213: -1025730872075163263
+    second: hazards_glow_23
+  - first:
+      213: -6439483066865317469
+    second: hazards_glow_24
+  - first:
+      213: 8101280807258899254
+    second: hazards_glow_25
+  - first:
+      213: 7837195923889119257
+    second: hazards_glow_26
+  - first:
+      213: -425293898740997945
+    second: hazards_glow_27
+  - first:
+      213: 6220281483725287392
+    second: hazards_glow_28
+  - first:
+      213: -617047891161620362
+    second: hazards_glow_29
+  - first:
+      213: 2913112459746950090
+    second: hazards_glow_30
+  - first:
+      213: 8362352139949357452
+    second: hazards_glow_31
+  - first:
+      213: -8009732788710272081
+    second: hazards_glow_32
+  - first:
+      213: -2448633066483491408
+    second: hazards_glow_33
+  - first:
+      213: -9039905611457754767
+    second: hazards_glow_34
+  - first:
+      213: -4627413573760317909
+    second: hazards_glow_35
+  - first:
+      213: 3038588833869246531
+    second: hazards_glow_36
+  - first:
+      213: 8806289738218841734
+    second: hazards_glow_37
+  - first:
+      213: 2202854465145951326
+    second: hazards_glow_38
+  - first:
+      213: 6558719341830506497
+    second: hazards_glow_39
+  - first:
+      213: 2401422965705137382
+    second: hazards_glow_40
+  - first:
+      213: -7304694508665775345
+    second: hazards_glow_41
+  - first:
+      213: -7799825533923803495
+    second: hazards_glow_42
+  - first:
+      213: 1706325281796038124
+    second: hazards_glow_43
+  - first:
+      213: -3290291237586527895
+    second: hazards_glow_44
+  - first:
+      213: -6098280999314694471
+    second: hazards_glow_45
+  - first:
+      213: -638188984806761244
+    second: hazards_glow_46
+  - first:
+      213: 8920145961543777137
+    second: hazards_glow_47
+  - first:
+      213: -2098808135658895011
+    second: hazards_glow_48
+  - first:
+      213: -9113199874071662534
+    second: hazards_glow_49
+  - first:
+      213: -3781631068008356064
+    second: hazards_glow_50
+  - first:
+      213: -331980609411402721
+    second: hazards_glow_51
+  - first:
+      213: 2228649936869257460
+    second: hazards_glow_52
+  - first:
+      213: -7184424431954815789
+    second: hazards_glow_53
+  - first:
+      213: -7135231309678917062
+    second: hazards_glow_54
+  - first:
+      213: 8846879461360464964
+    second: hazards_glow_55
+  - first:
+      213: -2697562274571582272
+    second: hazards_glow_56
+  - first:
+      213: -6847171201226585931
+    second: hazards_glow_57
+  - first:
+      213: -4863662531858095325
+    second: hazards_glow_58
+  - first:
+      213: 2612408560733289330
+    second: hazards_glow_59
+  - first:
+      213: 3854267207121944765
+    second: hazards_glow_60
+  - first:
+      213: -5772134795137582055
+    second: hazards_glow_61
+  - first:
+      213: 8348336554419662764
+    second: hazards_glow_62
+  - first:
+      213: -939498591011984649
+    second: hazards_glow_63
+  - first:
+      213: 3526883400832439669
+    second: hazards_glow_64
+  - first:
+      213: 6416132966777851625
+    second: hazards_glow_65
+  - first:
+      213: -6810567176680353476
+    second: hazards_glow_66
+  - first:
+      213: -7975135754743420300
+    second: hazards_glow_67
+  - first:
+      213: -4215944125640681626
+    second: hazards_glow_68
+  - first:
+      213: 4508553690401090631
+    second: hazards_glow_69
+  - first:
+      213: -1959032364323107991
+    second: hazards_glow_70
+  - first:
+      213: -8908007809595231191
+    second: hazards_glow_71
+  - first:
+      213: 1652418682945649070
+    second: hazards_glow_72
+  - first:
+      213: 6720115655034402606
+    second: hazards_glow_73
+  - first:
+      213: -5424954810084825039
+    second: hazards_glow_74
+  - first:
+      213: 4055592504006896600
+    second: hazards_glow_75
+  - first:
+      213: 1928089472338473933
+    second: hazards_glow_76
+  - first:
+      213: -3204342061489392941
+    second: hazards_glow_77
+  - first:
+      213: -7779733521054807201
+    second: hazards_glow_78
+  - first:
+      213: 1729214963270867765
+    second: hazards_glow_79
+  - first:
+      213: -7481109670350647785
+    second: hazards_glow_80
+  - first:
+      213: -2767659633355210183
+    second: hazards_glow_81
+  - first:
+      213: -8364761068311595819
+    second: hazards_glow_82
+  - first:
+      213: -1460903856152654122
+    second: hazards_glow_83
+  - first:
+      213: 1539624157298117230
+    second: hazards_glow_84
+  - first:
+      213: 613649137920055341
+    second: hazards_glow_85
+  - first:
+      213: -1995452710701321725
+    second: hazards_glow_86
+  - first:
+      213: -2440257177422028632
+    second: hazards_glow_87
+  - first:
+      213: -8855360418528976305
+    second: hazards_glow_88
+  - first:
+      213: 6316315811881078454
+    second: hazards_glow_89
+  - first:
+      213: -4720398156950759184
+    second: hazards_glow_90
+  - first:
+      213: -5054105658261093578
+    second: hazards_glow_91
+  - first:
+      213: 9088231463659862918
+    second: hazards_glow_92
+  - first:
+      213: 214394728060686764
+    second: hazards_glow_93
+  - first:
+      213: -8212263543489368132
+    second: hazards_glow_94
+  - first:
+      213: -174141918538113323
+    second: hazards_glow_95
+  - first:
+      213: 7362030745588384409
+    second: hazards_glow_96
+  - first:
+      213: -7567381994550607180
+    second: hazards_glow_97
+  - first:
+      213: -5321814897133963597
+    second: hazards_glow_98
+  - first:
+      213: 5702812256469199867
+    second: hazards_glow_99
+  - first:
+      213: -5710488586868530707
+    second: hazards_glow_100
+  - first:
+      213: -2503507595161999486
+    second: hazards_glow_101
+  - first:
+      213: -803227320301684447
+    second: hazards_glow_102
+  - first:
+      213: 4243777621098020580
+    second: hazards_glow_103
+  - first:
+      213: -6790643203829579495
+    second: hazards_glow_104
+  - first:
+      213: -2364980376222627169
+    second: hazards_glow_105
+  - first:
+      213: -3809407304750517103
+    second: hazards_glow_106
+  - first:
+      213: -4393611132853044476
+    second: hazards_glow_107
+  - first:
+      213: -7453781274377846877
+    second: hazards_glow_108
+  - first:
+      213: 6991095166366239183
+    second: hazards_glow_109
+  - first:
+      213: -2600456098890623216
+    second: hazards_glow_110
+  - first:
+      213: 8825556118840534817
+    second: hazards_glow_111
+  - first:
+      213: 4626418844642566218
+    second: hazards_glow_112
+  - first:
+      213: -5815367887478140476
+    second: hazards_glow_113
+  - first:
+      213: -9088578774892506966
+    second: hazards_glow_114
+  - first:
+      213: 4165548423759312192
+    second: hazards_glow_115
+  - first:
+      213: 8276368694843448521
+    second: hazards_glow_116
+  - first:
+      213: -2282842197637706861
+    second: hazards_glow_117
+  - first:
+      213: -6627822644483700091
+    second: hazards_glow_118
+  - first:
+      213: 3294766468797372877
+    second: hazards_glow_119
+  - first:
+      213: 6884405808905099635
+    second: hazards_glow_120
+  - first:
+      213: 8160684832758875017
+    second: hazards_glow_121
+  - first:
+      213: 6722829544645940305
+    second: hazards_glow_122
+  - first:
+      213: -1737917117822299166
+    second: hazards_glow_123
+  - first:
+      213: -371727423093837814
+    second: hazards_glow_124
+  - first:
+      213: 474721924842255350
+    second: hazards_glow_125
+  - first:
+      213: -5571883082673131383
+    second: hazards_glow_126
+  - first:
+      213: -3634416475961565922
+    second: hazards_glow_127
+  - first:
+      213: -6633637586885674865
+    second: hazards_glow_128
+  - first:
+      213: 5077873714850502175
+    second: hazards_glow_129
+  - first:
+      213: 2447019487727502838
+    second: hazards_glow_130
+  - first:
+      213: 8808209717416544444
+    second: hazards_glow_131
+  - first:
+      213: -3269718647593367451
+    second: hazards_glow_132
+  - first:
+      213: -3057368133884169301
+    second: hazards_glow_133
+  - first:
+      213: 5591983515043296730
+    second: hazards_glow_134
+  - first:
+      213: -280235522191132163
+    second: hazards_glow_135
+  - first:
+      213: -7268535779760800791
+    second: hazards_glow_136
+  - first:
+      213: 364715673280787323
+    second: hazards_glow_137
+  - first:
+      213: -5935744896960588391
+    second: hazards_glow_138
+  - first:
+      213: 3887081857839753789
+    second: hazards_glow_139
+  - first:
+      213: 4466948040955464892
+    second: hazards_glow_140
+  - first:
+      213: -5747375992767406070
+    second: hazards_glow_141
+  - first:
+      213: 5778818852114847742
+    second: hazards_glow_142
+  - first:
+      213: -8392621700812503881
+    second: hazards_glow_143
+  - first:
+      213: 7141113476160800722
+    second: hazards_glow_144
+  - first:
+      213: -1480695229363945689
+    second: hazards_glow_145
+  - first:
+      213: 3131254997724004700
+    second: hazards_glow_146
+  - first:
+      213: 8179115936870812330
+    second: hazards_glow_147
+  - first:
+      213: -2926065574432978752
+    second: hazards_glow_148
+  - first:
+      213: 6594522698078057584
+    second: hazards_glow_149
+  - first:
+      213: 1570147931075710223
+    second: hazards_glow_150
+  - first:
+      213: -3199171178826675164
+    second: hazards_glow_151
+  - first:
+      213: 3549037948861838934
+    second: hazards_glow_152
+  - first:
+      213: -4965718919498198863
+    second: hazards_glow_153
+  - first:
+      213: 1408981322512689290
+    second: hazards_glow_154
+  - first:
+      213: 4386288472054987654
+    second: hazards_glow_155
+  - first:
+      213: -1634799520050680218
+    second: hazards_glow_156
+  - first:
+      213: 1423870098600016733
+    second: hazards_glow_157
+  - first:
+      213: -4207352643442110268
+    second: hazards_glow_158
+  - first:
+      213: 8823113724019134965
+    second: hazards_glow_159
+  - first:
+      213: -6094955866947140515
+    second: hazards_glow_160
+  - first:
+      213: -4586483160427777370
+    second: hazards_glow_161
+  - first:
+      213: 8179219916199483556
+    second: hazards_glow_162
+  - first:
+      213: -1174909854571625321
+    second: hazards_glow_163
+  - first:
+      213: -671625705287874391
+    second: hazards_glow_164
+  - first:
+      213: 5104536602210708350
+    second: hazards_glow_165
+  - first:
+      213: -8272647089972174040
+    second: hazards_glow_166
+  - first:
+      213: -5265007758180048567
+    second: hazards_glow_167
+  - first:
+      213: -6655276851738449939
+    second: hazards_glow_168
+  - first:
+      213: 1672133447400882667
+    second: hazards_glow_169
+  - first:
+      213: 2185355661556852358
+    second: hazards_glow_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 536
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hazards_glow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aa64d9f3bf6fb20800000000000000
+      internalID: 3167995638541888156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838f8768837e1560800000000000000
+      internalID: 7286388276822246282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_2
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2c4e900505730f0800000000000000
+      internalID: -1137352076194168097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_3
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1462a44dbd61882c0800000000000000
+      internalID: -4429265100103604671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_4
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e9e974c082dbcd0800000000000000
+      internalID: -2540830581560795592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_5
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5f3d45414e28530800000000000000
+      internalID: 3855895006956221861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_6
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747e4ce44abde420800000000000000
+      internalID: 2660987760030938237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_7
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9557b0fc87dbf670800000000000000
+      internalID: 8573683315963811227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_8
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816d33cfbd10fecc0800000000000000
+      internalID: -3679720326197684712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_9
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec644b19ff215160800000000000000
+      internalID: 7012438841743404270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_10
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be5800793e17dcf0800000000000000
+      internalID: -227680024117354827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_11
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 8595
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680536526dfa3c0f0800000000000000
+      internalID: -1097840549863141242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a473eae74a9569f0800000000000000
+      internalID: -475804551943588704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce470b1dfc430ea30800000000000000
+      internalID: 4242448916163884268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_14
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd781f739eb01180800000000000000
+      internalID: -9146601302487695951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_15
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6de920e37d4a50800000000000000
+      internalID: 6506984443233528395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_16
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40658728e6e252cc0800000000000000
+      internalID: -3736529263663753724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_17
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41c57ad9b526510800000000000000
+      internalID: 1540894755189953767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_18
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65551f23878b89370800000000000000
+      internalID: 8329610337211995478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_19
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041113cc9945d4c0800000000000000
+      internalID: -4263420534599904254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_20
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187aa96f60f491730800000000000000
+      internalID: 3970291437829531521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_21
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaba3d10e5940820800000000000000
+      internalID: 2883594451219561149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_22
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03b5b087dff89d30800000000000000
+      internalID: 4438578733816066829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_23
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 8059
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189eec6d43fd3c1f0800000000000000
+      internalID: -1025730872075163263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9895eb44c52a6a0800000000000000
+      internalID: -6439483066865317469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_25
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334b56c8f78d6070800000000000000
+      internalID: 8101280807258899254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_26
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910ec866b2053cc60800000000000000
+      internalID: 7837195923889119257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_27
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0e660d37d091af0800000000000000
+      internalID: -425293898740997945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_28
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efa2609d01e25650800000000000000
+      internalID: 6220281483725287392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_29
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67068e5563ecf67f0800000000000000
+      internalID: -617047891161620362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_30
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb3bf909547d6820800000000000000
+      internalID: 2913112459746950090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_31
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b86437fa0d0470800000000000000
+      internalID: 8362352139949357452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_32
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3102f4776b7d090800000000000000
+      internalID: -8009732788710272081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_33
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdd9fe0335b40ed0800000000000000
+      internalID: -2448633066483491408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_34
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179000aedbdcb8280800000000000000
+      internalID: -9039905611457754767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_35
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 7523
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26023b2fdf18cfb0800000000000000
+      internalID: -4627413573760317909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340be3df17c3b2a20800000000000000
+      internalID: 3038588833869246531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_37
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a3b3fbd9363a70800000000000000
+      internalID: 8806289738218841734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_38
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5458eef67c129e10800000000000000
+      internalID: 2202854465145951326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_39
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088a47ed70450b50800000000000000
+      internalID: 6558719341830506497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_40
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecd15ac671935120800000000000000
+      internalID: 2401422965705137382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_41
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bda3adb0380aa90800000000000000
+      internalID: -7304694508665775345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_42
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e337c800471c390800000000000000
+      internalID: -7799825533923803495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_43
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced98b4adc51ea710800000000000000
+      internalID: 1706325281796038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_44
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96913185d898652d0800000000000000
+      internalID: -3290291237586527895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_45
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be555fbdbd8e5ba0800000000000000
+      internalID: -6098280999314694471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_46
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9605ef72b427f0800000000000000
+      internalID: -638188984806761244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_47
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 6987
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bb376bd79bacb70800000000000000
+      internalID: 8920145961543777137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d590a5ede198fd2e0800000000000000
+      internalID: -2098808135658895011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_49
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f2d29ff8678180800000000000000
+      internalID: -9113199874071662534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_50
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027e7cf5492f48bc0800000000000000
+      internalID: -3781631068008356064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_51
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1437b70561946bf0800000000000000
+      internalID: -331980609411402721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_52
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f9c74f41cdee10800000000000000
+      internalID: 2228649936869257460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_53
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d412b93b0ccb4c90800000000000000
+      internalID: -7184424431954815789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_54
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac75c8de09afc90800000000000000
+      internalID: -7135231309678917062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_55
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444f6115ffd66ca70800000000000000
+      internalID: 8846879461360464964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_56
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c48aa05765509ad0800000000000000
+      internalID: -2697562274571582272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_57
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ca920216f9f0a0800000000000000
+      internalID: -6847171201226585931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_58
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323a83132bcc08cb0800000000000000
+      internalID: -4863662531858095325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_59
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 6451
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b72beaeb3214420800000000000000
+      internalID: 2612408560733289330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c0f5aa9b1d7530800000000000000
+      internalID: 3854267207121944765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_61
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cf6246cf145efa0800000000000000
+      internalID: -5772134795137582055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_62
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa7976ddf3bd370800000000000000
+      internalID: 8348336554419662764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_63
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa20c7520b36f2f0800000000000000
+      internalID: -939498591011984649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_64
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575d6de44c102f030800000000000000
+      internalID: 3526883400832439669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_65
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee877c60feaa0950800000000000000
+      internalID: 6416132966777851625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_66
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31580b9c310c71a0800000000000000
+      internalID: -6810567176680353476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_67
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a600ff840a25190800000000000000
+      internalID: -7975135754743420300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_68
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667da4e9725fd75c0800000000000000
+      internalID: -4215944125640681626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_69
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c222fa1b9919e30800000000000000
+      internalID: 4508553690401090631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_70
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b070da17e10d4e0800000000000000
+      internalID: -1959032364323107991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_71
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 5915
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924bba40816606480800000000000000
+      internalID: -8908007809595231191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9b13989029ee610800000000000000
+      internalID: 1652418682945649070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27fdd36595a24d50800000000000000
+      internalID: 6720115655034402606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_74
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e856c750b6b4b0800000000000000
+      internalID: -5424954810084825039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_75
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db611b15eb584830800000000000000
+      internalID: 4055592504006896600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_76
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3b7edd823f1ca10800000000000000
+      internalID: 1928089472338473933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_77
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2f4165fd3e783d0800000000000000
+      internalID: -3204342061489392941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_78
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b4456d495d80490800000000000000
+      internalID: -7779733521054807201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_79
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bdc0ae8d76ff710800000000000000
+      internalID: 1729214963270867765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_80
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e82053462cd2890800000000000000
+      internalID: -7481109670350647785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_81
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932cca62a3c4799d0800000000000000
+      internalID: -2767659633355210183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_82
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4354470266aeb80800000000000000
+      internalID: -8364761068311595819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_83
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 5379
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dec50bdea3d9bbe0800000000000000
+      internalID: -1460903856152654122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4d578308dd5510800000000000000
+      internalID: 1539624157298117230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_85
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d281372c3ae148800800000000000000
+      internalID: 613649137920055341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_86
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302be8cf45abe44e0800000000000000
+      internalID: -1995452710701321725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_87
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a923b607722ed0800000000000000
+      internalID: -2440257177422028632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_88
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a687fd907b1580800000000000000
+      internalID: -8855360418528976305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_89
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beca5004cf08a750800000000000000
+      internalID: 6316315811881078454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_90
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89a80d2e6cd7eb0800000000000000
+      internalID: -4720398156950759184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_91
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6334e0e7ea53cd9b0800000000000000
+      internalID: -5054105658261093578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_92
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b79fb5d52ef1e70800000000000000
+      internalID: 9088231463659862918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_93
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca116c78edea9f200800000000000000
+      internalID: 214394728060686764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_94
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfec6051dd280e80800000000000000
+      internalID: -8212263543489368132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_95
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 4843
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ded70509d2559df0800000000000000
+      internalID: -174141918538113323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992cc4815ff2b2660800000000000000
+      internalID: 7362030745588384409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_97
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2cf1f6b224bf690800000000000000
+      internalID: -7567381994550607180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_98
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6b2f71c8d1526b0800000000000000
+      internalID: -5321814897133963597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_99
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb279f4885742f40800000000000000
+      internalID: 5702812256469199867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_100
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de167cdb2e440c0b0800000000000000
+      internalID: -5710488586868530707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_101
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28760e93b11c14dd0800000000000000
+      internalID: -2503507595161999486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_102
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1297783020d5ad4f0800000000000000
+      internalID: -803227320301684447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_103
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eebc4b034de4ea30800000000000000
+      internalID: 4243777621098020580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_104
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91141570cf9c2c1a0800000000000000
+      internalID: -6790643203829579495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_105
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a0b76c0e6ed2fd0800000000000000
+      internalID: -2364980376222627169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_106
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194319b4d34422bc0800000000000000
+      internalID: -3809407304750517103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_107
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 4307
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb719f3f1c603c0800000000000000
+      internalID: -4393611132853044476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afff3b3c69de8890800000000000000
+      internalID: -7453781274377846877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_109
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9c53e630c550160800000000000000
+      internalID: 6991095166366239183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_110
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01750a3b4f259ebd0800000000000000
+      internalID: -2600456098890623216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_111
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127e3c0c78caa7a70800000000000000
+      internalID: 8825556118840534817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_112
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e7196d67543040800000000000000
+      internalID: 4626418844642566218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_113
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1d6aca7b9ab4fa0800000000000000
+      internalID: -5815367887478140476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_114
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa09061f1c1eed180800000000000000
+      internalID: -9088578774892506966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_115
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045bcdca8300fc930800000000000000
+      internalID: 4165548423759312192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_116
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9e465a719bd270800000000000000
+      internalID: 8276368694843448521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_117
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b4883cd17b150e0800000000000000
+      internalID: -2282842197637706861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_118
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a4249ab6e3504a0800000000000000
+      internalID: -6627822644483700091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_119
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 3771
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9198e95ac59bd20800000000000000
+      internalID: 3294766468797372877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3799c69ab925a8f50800000000000000
+      internalID: 6884405808905099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_121
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983c2844e93904170800000000000000
+      internalID: 8160684832758875017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_122
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1545f1e0ad94c4d50800000000000000
+      internalID: 6722829544645940305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_123
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e39127d69da1e7e0800000000000000
+      internalID: -1737917117822299166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_124
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007831d0eb57daf0800000000000000
+      internalID: -371727423093837814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_125
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ff41531d869600800000000000000
+      internalID: 474721924842255350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_126
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980724f7bd1bca2b0800000000000000
+      internalID: -5571883082673131383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_127
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ddb789875ff8dc0800000000000000
+      internalID: -3634416475961565922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_128
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88fff0e2c590f3a0800000000000000
+      internalID: -6633637586885674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_129
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1615fb6d3b387640800000000000000
+      internalID: 5077873714850502175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_130
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5c47c524f85f120800000000000000
+      internalID: 2447019487727502838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_131
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 3235
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8c1c1f11c0d3a70800000000000000
+      internalID: 8808209717416544444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_132
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680ab6b630af92d0800000000000000
+      internalID: -3269718647593367451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_133
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba33c3081eb0295d0800000000000000
+      internalID: -3057368133884169301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_134
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5fefb1167ba9d40800000000000000
+      internalID: 5591983515043296730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_135
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f95ef6476c1cf0800000000000000
+      internalID: -280235522191132163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_136
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf32af739f02b90800000000000000
+      internalID: -7268535779760800791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_137
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733be5f8fabf0500800000000000000
+      internalID: 364715673280787323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_138
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9959353177fff9da0800000000000000
+      internalID: -5935744896960588391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_139
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a6765ea50b1f530800000000000000
+      internalID: 3887081857839753789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_140
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc074b8399cdfd30800000000000000
+      internalID: 4466948040955464892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_141
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00ad784cf73d30b0800000000000000
+      internalID: -5747375992767406070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_142
+      rect:
+        serializedVersion: 2
+        x: 5365
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d2a5e02d723050800000000000000
+      internalID: 5778818852114847742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_143
+      rect:
+        serializedVersion: 2
+        x: 5901
+        y: 2699
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b406d4770b678b80800000000000000
+      internalID: -8392621700812503881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7c15f0fd45a1360800000000000000
+      internalID: 7141113476160800722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_145
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f7521b883837be0800000000000000
+      internalID: -1480695229363945689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_146
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51818094d3747b20800000000000000
+      internalID: 3131254997724004700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_147
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaacbe91c9e028170800000000000000
+      internalID: 8179115936870812330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_148
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84c6eecd68467d0800000000000000
+      internalID: -2926065574432978752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_149
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07471326473748b50800000000000000
+      internalID: 6594522698078057584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_150
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d059c69394ac510800000000000000
+      internalID: 1570147931075710223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_151
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 2163
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4e5643c24a93d0800000000000000
+      internalID: -3199171178826675164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_152
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6567a4cf537b04130800000000000000
+      internalID: 3549037948861838934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_153
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b09fd4c3f8361bb0800000000000000
+      internalID: -4965718919498198863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_154
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8867873c05bd8310800000000000000
+      internalID: 1408981322512689290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_155
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1627
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7a33302a3fdc30800000000000000
+      internalID: 4386288472054987654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_156
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e66608f760059e0800000000000000
+      internalID: -1634799520050680218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_157
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bba598f4a92c310800000000000000
+      internalID: 1423870098600016733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_158
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1091
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c015d2ff0b7c95c0800000000000000
+      internalID: -4207352643442110268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1d8056f2ff17a70800000000000000
+      internalID: 8823113724019134965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_160
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54cee47eed5a6ba0800000000000000
+      internalID: -6094955866947140515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_161
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a23466add98950c0800000000000000
+      internalID: -4586483160427777370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_162
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8dedcad2d628170800000000000000
+      internalID: 8179219916199483556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_163
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794072356b1e1bfe0800000000000000
+      internalID: -1174909854571625321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_164
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a88b4ebaf7eda6f0800000000000000
+      internalID: -671625705287874391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_165
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bafb5aef4f6d640800000000000000
+      internalID: 5104536602210708350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_166
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 555
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8232a025d47a13d80800000000000000
+      internalID: -8272647089972174040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_167
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a002d65feee6b0800000000000000
+      internalID: -5265007758180048567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_168
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ef3ae6f4b3a3a0800000000000000
+      internalID: -6655276851738449939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_169
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10165d28c943710800000000000000
+      internalID: 1672133447400882667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hazards_glow_170
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 19
+        width: 536
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862cfa4561f35e10800000000000000
+      internalID: 2185355661556852358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 65718a9c028107f469aacf5acbda4f85
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":536.0,"y":536.0},"gridSpriteOffset":{"x":5.0,"y":5.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hazards_glow_0: 3167995638541888156
+      hazards_glow_1: 7286388276822246282
+      hazards_glow_10: -227680024117354827
+      hazards_glow_100: -5710488586868530707
+      hazards_glow_101: -2503507595161999486
+      hazards_glow_102: -803227320301684447
+      hazards_glow_103: 4243777621098020580
+      hazards_glow_104: -6790643203829579495
+      hazards_glow_105: -2364980376222627169
+      hazards_glow_106: -3809407304750517103
+      hazards_glow_107: -4393611132853044476
+      hazards_glow_108: -7453781274377846877
+      hazards_glow_109: 6991095166366239183
+      hazards_glow_11: -1097840549863141242
+      hazards_glow_110: -2600456098890623216
+      hazards_glow_111: 8825556118840534817
+      hazards_glow_112: 4626418844642566218
+      hazards_glow_113: -5815367887478140476
+      hazards_glow_114: -9088578774892506966
+      hazards_glow_115: 4165548423759312192
+      hazards_glow_116: 8276368694843448521
+      hazards_glow_117: -2282842197637706861
+      hazards_glow_118: -6627822644483700091
+      hazards_glow_119: 3294766468797372877
+      hazards_glow_12: -475804551943588704
+      hazards_glow_120: 6884405808905099635
+      hazards_glow_121: 8160684832758875017
+      hazards_glow_122: 6722829544645940305
+      hazards_glow_123: -1737917117822299166
+      hazards_glow_124: -371727423093837814
+      hazards_glow_125: 474721924842255350
+      hazards_glow_126: -5571883082673131383
+      hazards_glow_127: -3634416475961565922
+      hazards_glow_128: -6633637586885674865
+      hazards_glow_129: 5077873714850502175
+      hazards_glow_13: 4242448916163884268
+      hazards_glow_130: 2447019487727502838
+      hazards_glow_131: 8808209717416544444
+      hazards_glow_132: -3269718647593367451
+      hazards_glow_133: -3057368133884169301
+      hazards_glow_134: 5591983515043296730
+      hazards_glow_135: -280235522191132163
+      hazards_glow_136: -7268535779760800791
+      hazards_glow_137: 364715673280787323
+      hazards_glow_138: -5935744896960588391
+      hazards_glow_139: 3887081857839753789
+      hazards_glow_14: -9146601302487695951
+      hazards_glow_140: 4466948040955464892
+      hazards_glow_141: -5747375992767406070
+      hazards_glow_142: 5778818852114847742
+      hazards_glow_143: -8392621700812503881
+      hazards_glow_144: 7141113476160800722
+      hazards_glow_145: -1480695229363945689
+      hazards_glow_146: 3131254997724004700
+      hazards_glow_147: 8179115936870812330
+      hazards_glow_148: -2926065574432978752
+      hazards_glow_149: 6594522698078057584
+      hazards_glow_15: 6506984443233528395
+      hazards_glow_150: 1570147931075710223
+      hazards_glow_151: -3199171178826675164
+      hazards_glow_152: 3549037948861838934
+      hazards_glow_153: -4965718919498198863
+      hazards_glow_154: 1408981322512689290
+      hazards_glow_155: 4386288472054987654
+      hazards_glow_156: -1634799520050680218
+      hazards_glow_157: 1423870098600016733
+      hazards_glow_158: -4207352643442110268
+      hazards_glow_159: 8823113724019134965
+      hazards_glow_16: -3736529263663753724
+      hazards_glow_160: -6094955866947140515
+      hazards_glow_161: -4586483160427777370
+      hazards_glow_162: 8179219916199483556
+      hazards_glow_163: -1174909854571625321
+      hazards_glow_164: -671625705287874391
+      hazards_glow_165: 5104536602210708350
+      hazards_glow_166: -8272647089972174040
+      hazards_glow_167: -5265007758180048567
+      hazards_glow_168: -6655276851738449939
+      hazards_glow_169: 1672133447400882667
+      hazards_glow_17: 1540894755189953767
+      hazards_glow_170: 2185355661556852358
+      hazards_glow_18: 8329610337211995478
+      hazards_glow_19: -4263420534599904254
+      hazards_glow_2: -1137352076194168097
+      hazards_glow_20: 3970291437829531521
+      hazards_glow_21: 2883594451219561149
+      hazards_glow_22: 4438578733816066829
+      hazards_glow_23: -1025730872075163263
+      hazards_glow_24: -6439483066865317469
+      hazards_glow_25: 8101280807258899254
+      hazards_glow_26: 7837195923889119257
+      hazards_glow_27: -425293898740997945
+      hazards_glow_28: 6220281483725287392
+      hazards_glow_29: -617047891161620362
+      hazards_glow_3: -4429265100103604671
+      hazards_glow_30: 2913112459746950090
+      hazards_glow_31: 8362352139949357452
+      hazards_glow_32: -8009732788710272081
+      hazards_glow_33: -2448633066483491408
+      hazards_glow_34: -9039905611457754767
+      hazards_glow_35: -4627413573760317909
+      hazards_glow_36: 3038588833869246531
+      hazards_glow_37: 8806289738218841734
+      hazards_glow_38: 2202854465145951326
+      hazards_glow_39: 6558719341830506497
+      hazards_glow_4: -2540830581560795592
+      hazards_glow_40: 2401422965705137382
+      hazards_glow_41: -7304694508665775345
+      hazards_glow_42: -7799825533923803495
+      hazards_glow_43: 1706325281796038124
+      hazards_glow_44: -3290291237586527895
+      hazards_glow_45: -6098280999314694471
+      hazards_glow_46: -638188984806761244
+      hazards_glow_47: 8920145961543777137
+      hazards_glow_48: -2098808135658895011
+      hazards_glow_49: -9113199874071662534
+      hazards_glow_5: 3855895006956221861
+      hazards_glow_50: -3781631068008356064
+      hazards_glow_51: -331980609411402721
+      hazards_glow_52: 2228649936869257460
+      hazards_glow_53: -7184424431954815789
+      hazards_glow_54: -7135231309678917062
+      hazards_glow_55: 8846879461360464964
+      hazards_glow_56: -2697562274571582272
+      hazards_glow_57: -6847171201226585931
+      hazards_glow_58: -4863662531858095325
+      hazards_glow_59: 2612408560733289330
+      hazards_glow_6: 2660987760030938237
+      hazards_glow_60: 3854267207121944765
+      hazards_glow_61: -5772134795137582055
+      hazards_glow_62: 8348336554419662764
+      hazards_glow_63: -939498591011984649
+      hazards_glow_64: 3526883400832439669
+      hazards_glow_65: 6416132966777851625
+      hazards_glow_66: -6810567176680353476
+      hazards_glow_67: -7975135754743420300
+      hazards_glow_68: -4215944125640681626
+      hazards_glow_69: 4508553690401090631
+      hazards_glow_7: 8573683315963811227
+      hazards_glow_70: -1959032364323107991
+      hazards_glow_71: -8908007809595231191
+      hazards_glow_72: 1652418682945649070
+      hazards_glow_73: 6720115655034402606
+      hazards_glow_74: -5424954810084825039
+      hazards_glow_75: 4055592504006896600
+      hazards_glow_76: 1928089472338473933
+      hazards_glow_77: -3204342061489392941
+      hazards_glow_78: -7779733521054807201
+      hazards_glow_79: 1729214963270867765
+      hazards_glow_8: -3679720326197684712
+      hazards_glow_80: -7481109670350647785
+      hazards_glow_81: -2767659633355210183
+      hazards_glow_82: -8364761068311595819
+      hazards_glow_83: -1460903856152654122
+      hazards_glow_84: 1539624157298117230
+      hazards_glow_85: 613649137920055341
+      hazards_glow_86: -1995452710701321725
+      hazards_glow_87: -2440257177422028632
+      hazards_glow_88: -8855360418528976305
+      hazards_glow_89: 6316315811881078454
+      hazards_glow_9: 7012438841743404270
+      hazards_glow_90: -4720398156950759184
+      hazards_glow_91: -5054105658261093578
+      hazards_glow_92: 9088231463659862918
+      hazards_glow_93: 214394728060686764
+      hazards_glow_94: -8212263543489368132
+      hazards_glow_95: -174141918538113323
+      hazards_glow_96: 7362030745588384409
+      hazards_glow_97: -7567381994550607180
+      hazards_glow_98: -5321814897133963597
+      hazards_glow_99: 5702812256469199867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
