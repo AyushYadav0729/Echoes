@@ -398,7 +398,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.57, y: -0.34059, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3744892330509369707}
@@ -504,7 +504,7 @@ BoxCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 4278fd31d6b3b284d9a4fbcb62885c80, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -559,10 +559,10 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 512
   groundCheckRadius: 0.1
-  levelStartPoint: {fileID: 0}
-  deathEffectSpawner: {fileID: 0}
+  levelStartPoint: {fileID: 9141400773979955458, guid: 4ba240fee4b2a774a976769c560628bc, type: 3}
+  deathEffectSpawner: {fileID: 5645842588085769861, guid: 26dd9c8e558773b40b352cfe3c758df3, type: 3}
   characterAnimator: {fileID: 9139290864539172135}
-  echoManager: {fileID: 0}
+  echoManager: {fileID: 5079716492842396135, guid: 663f2aa7dd436114e8d9c65a79ffe052, type: 3}
   respawnProtectionTime: 0.15
 --- !u!114 &7888815002646926242
 MonoBehaviour:

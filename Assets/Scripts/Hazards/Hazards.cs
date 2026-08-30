@@ -5,14 +5,7 @@ using UnityEngine;
 // ---------- Spikes ----------
 // Static hazard. No movement, just instant death on touch.
 public class Spike : MonoBehaviour
-{   
-    [Header("Rotation Settings")]
-    public float degreesPerSecond = 90f; // positive = counter-clockwise, negative = clockwise
- 
-    void Update()
-    {
-        transform.Rotate(0f, 0f, degreesPerSecond * Time.deltaTime);
-    }
+{
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -60,44 +53,3 @@ public class ProjectileLaser : MonoBehaviour
     }
 }
 
-
-// ---------- Static Laser ----------
-// Continuous beam. Cannot be blocked by standing in it — only disabled via a linked plate.
-public class StaticLaser : MonoBehaviour
-{
-    [Header("Visual")]
-    public SpriteRenderer beamRenderer;
-    public Color activeColor = new Color(1f, 0.3f, 0.3f, 1f);
-    public Color inactiveColor = new Color(0.4f, 0.4f, 0.4f, 0.25f);
-
-    private bool isActive = true;
-
-    void Awake()
-    {
-        if (beamRenderer == null) beamRenderer = GetComponent<SpriteRenderer>();
-    }
-
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (!isActive) return;
-
-        if (other.CompareTag("Player"))
-        {
-            other.GetComponent<PlayerController>()?.Die();
-        }
-        else if (other.CompareTag("Echo"))
-        {
-            other.GetComponent<EchoPlayer>()?.Despawn();
-        }
-        // Note: unlike ProjectileLaser, this object is never destroyed —
-        // it stays and keeps firing until disabled by its linked plate.
-    }
-
-    // Called by the linked HoldPlate via OnPressed/OnReleased.
-    public void SetActive(bool active)
-    {
-        isActive = active;
-        if (beamRenderer != null)
-            beamRenderer.color = active ? activeColor : inactiveColor;
-    }
-}

@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
         else if (horizontalInput < 0f)
             facingRight = false;
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded && !isDying)
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && isGrounded && !isDying)
         {
             rb.linearVelocity = new Vector2(
                 rb.linearVelocity.x,
