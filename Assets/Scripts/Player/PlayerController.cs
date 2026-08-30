@@ -140,6 +140,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    public void SetCheckpoint(Transform newCheckpoint)
+    {
+        levelStartPoint = newCheckpoint;
+    }
+
     public void Die()
     {
         // Make absolutely sure Die() can only happen once
