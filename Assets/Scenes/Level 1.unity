@@ -2071,7 +2071,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2092,8 +2092,8 @@ Transform:
   m_GameObject: {fileID: 889096632}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.020000458, y: 0.030927807, z: 0}
-  m_LocalScale: {x: 0.74809, y: 0.2570756, z: 0.74809}
+  m_LocalPosition: {x: 0.012, y: -0.05, z: 0}
+  m_LocalScale: {x: 0.42, y: 0.36, z: 0.74809}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1000122124}
@@ -2290,8 +2290,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02486c02632ab9243b9fd7af8b7ce424, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Door
-  closedSprite: {fileID: -682983630846383109, guid: b65b45f014ea4924f98a0d757c10aa31, type: 3}
-  openSprite: {fileID: 3137696527524236817, guid: b65b45f014ea4924f98a0d757c10aa31, type: 3}
+  closedSprite: {fileID: 5845128490112350427, guid: 4fea58b43cd29d240a45c0c591e3f777, type: 3}
+  openSprite: {fileID: -5357681181083667451, guid: 4fea58b43cd29d240a45c0c591e3f777, type: 3}
   doorRenderer: {fileID: 1000122123}
 --- !u!61 &1000122122
 BoxCollider2D:
@@ -2327,17 +2327,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.022376478, y: -0.06082961}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.072, y: 1.072}
+    oldSize: {x: 1.0000942, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.072, y: 1.072}
+  m_Size: {x: 0.64684415, y: 0.9503408}
   m_EdgeRadius: 0
 --- !u!212 &1000122123
 SpriteRenderer:
@@ -2386,9 +2386,9 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -682983630846383109, guid: b65b45f014ea4924f98a0d757c10aa31, type: 3}
+  m_Sprite: {fileID: 5845128490112350427, guid: 4fea58b43cd29d240a45c0c591e3f777, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2407,8 +2407,8 @@ Transform:
   m_GameObject: {fileID: 1000122120}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.99, y: -2.49, z: 0}
-  m_LocalScale: {x: 1, y: 2.91, z: 1}
+  m_LocalPosition: {x: 6.99, y: -2.094, z: 0}
+  m_LocalScale: {x: 1.68, y: 2.06, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 889096634}

@@ -4647,7 +4647,7 @@ GameObject:
   - component: {fileID: 459595526}
   - component: {fileID: 459595525}
   - component: {fileID: 459595527}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: MoovingPlat
   m_TagString: Interactable
   m_Icon: {fileID: 0}
@@ -4743,6 +4743,7 @@ MonoBehaviour:
   moveAxis: 0
   travelDistance: 6
   speed: 2
+  reverseDirection: 0
 --- !u!50 &459595526
 Rigidbody2D:
   serializedVersion: 5
@@ -4816,75 +4817,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.046875, y: 1.046875}
   m_EdgeRadius: 0
---- !u!1001 &518228786
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 4.49535
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -8.36
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1241280126601352047, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3457132444369351213, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8381727193664798163, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
-      propertyPath: m_Name
-      value: Echo
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 62dac0c8bcce5204489f82b02685e85e, type: 3}
 --- !u!1 &546684608
 GameObject:
   m_ObjectHideFlags: 0
@@ -4897,6 +4829,7 @@ GameObject:
   - component: {fileID: 546684609}
   - component: {fileID: 546684611}
   - component: {fileID: 546684612}
+  - component: {fileID: 546684613}
   m_Layer: 8
   m_Name: Portal
   m_TagString: Interactable
@@ -5039,6 +4972,21 @@ MonoBehaviour:
   linkedPortal: {fileID: 1541171846}
   teleportCooldown: 0.5
   exitOffset: {x: 0, y: 0}
+--- !u!114 &546684613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546684608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7eec188654c60419088de32988ab3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScalePulse
+  minScale: 0.9
+  maxScale: 1
+  speed: 4
 --- !u!1001 &659056573
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5374,8 +5322,8 @@ GameObject:
   m_Component:
   - component: {fileID: 889096634}
   - component: {fileID: 889096633}
-  - component: {fileID: 889096635}
   - component: {fileID: 889096636}
+  - component: {fileID: 889096637}
   m_Layer: 0
   m_Name: Goal
   m_TagString: Goal
@@ -5457,28 +5405,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &889096635
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 889096632}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a2c0bcf3bbb18a848a0ec27425eb8674, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!58 &889096636
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5515,6 +5441,28 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0.00000023841858}
   m_Radius: 0.5
+--- !u!95 &889096637
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 889096632}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: ab22597ea095d484c958b8f50ebf7675, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &960950096
 GameObject:
   m_ObjectHideFlags: 0
@@ -5528,7 +5476,7 @@ GameObject:
   - component: {fileID: 960950100}
   - component: {fileID: 960950099}
   - component: {fileID: 960950101}
-  m_Layer: 8
+  m_Layer: 9
   m_Name: MoovingPlat (1)
   m_TagString: Interactable
   m_Icon: {fileID: 0}
@@ -5624,6 +5572,7 @@ MonoBehaviour:
   moveAxis: 1
   travelDistance: 3
   speed: 1
+  reverseDirection: 0
 --- !u!50 &960950100
 Rigidbody2D:
   serializedVersion: 5
@@ -9119,6 +9068,7 @@ GameObject:
   - component: {fileID: 1541171843}
   - component: {fileID: 1541171845}
   - component: {fileID: 1541171846}
+  - component: {fileID: 1541171847}
   m_Layer: 8
   m_Name: Portal (1)
   m_TagString: Interactable
@@ -9261,6 +9211,21 @@ MonoBehaviour:
   linkedPortal: {fileID: 546684612}
   teleportCooldown: 0.5
   exitOffset: {x: 0, y: 0}
+--- !u!114 &1541171847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1541171842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7eec188654c60419088de32988ab3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScalePulse
+  minScale: 0.9
+  maxScale: 1
+  speed: 4
 --- !u!1 &1639527553
 GameObject:
   m_ObjectHideFlags: 0
@@ -10046,6 +10011,5 @@ SceneRoots:
   - {fileID: 546684610}
   - {fileID: 1541171844}
   - {fileID: 889096634}
-  - {fileID: 518228786}
   - {fileID: 1485318794}
   - {fileID: 1639527556}

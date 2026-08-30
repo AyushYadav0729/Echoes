@@ -24,6 +24,7 @@ public class MovingSlab : MonoBehaviour, IToggleable
     public float travelDistance = 3f;  // how far it can move from its starting position
     public float speed = 2f;           // units per second, while the plate is held
 
+    public bool reverseDirection = false;
     private Rigidbody2D rb;
     private Vector2 startPos;
     private Vector2 axisDir;
@@ -35,9 +36,17 @@ public class MovingSlab : MonoBehaviour, IToggleable
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.bodyType = RigidbodyType2D.Kinematic; // moved manually, not by physics forces
+
+        rb.bodyType = RigidbodyType2D.Kinematic;
+
         startPos = rb.position;
-        axisDir = moveAxis == Axis.Horizontal ? Vector2.right : Vector2.up;
+
+        axisDir = moveAxis == Axis.Horizontal
+            ? Vector2.right
+            : Vector2.up;
+
+        if (reverseDirection)
+            axisDir = -axisDir;
     }
 
     void OnEnable()
