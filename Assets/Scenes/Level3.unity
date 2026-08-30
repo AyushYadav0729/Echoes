@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 544720867}
   - component: {fileID: 544720866}
   - component: {fileID: 544720865}
-  - component: {fileID: 544720864}
+  - component: {fileID: 544720868}
   m_Layer: 0
   m_Name: Platform1
   m_TagString: Untagged
@@ -320,20 +320,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &544720864
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 544720863}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3ddc8f4e0d1fc34ba4df0021174534b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
-  raisedOffset: {x: 0, y: 3, z: 0}
-  moveSpeed: 3
 --- !u!61 &544720865
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -454,6 +440,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &544720868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544720863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716ddbc042eac244c8668a1819b924db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
+  raisedOffset: {x: 0, y: 3, z: 0}
+  moveSpeed: 3
 --- !u!1 &579476704
 GameObject:
   m_ObjectHideFlags: 0
@@ -1606,7 +1606,7 @@ GameObject:
   - component: {fileID: 1944873240}
   - component: {fileID: 1944873239}
   - component: {fileID: 1944873238}
-  - component: {fileID: 1944873237}
+  - component: {fileID: 1944873241}
   m_Layer: 0
   m_Name: Platform2
   m_TagString: Untagged
@@ -1614,20 +1614,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1944873237
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1944873236}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d3ddc8f4e0d1fc34ba4df0021174534b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
-  raisedOffset: {x: 0, y: 3, z: 0}
-  moveSpeed: 3
 --- !u!61 &1944873238
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1748,6 +1734,20 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1944873241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1944873236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 716ddbc042eac244c8668a1819b924db, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MovingPlatform
+  raisedOffset: {x: 0, y: 3, z: 0}
+  moveSpeed: 3
 --- !u!1001 &4600444829561843709
 PrefabInstance:
   m_ObjectHideFlags: 0
